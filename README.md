@@ -1,6 +1,6 @@
 ![20240620-115337_WeLinkPC_.png](https://raw.gitcode.com/Cangjie/CangjieCommunity/attachment/uploads/fdfcfdf3-8f8c-4c4f-9f58-4b5431b41a1f/20240620-115337_WeLinkPC_.png '20240620-115337_WeLinkPC_.png')
 
-[>> 安装配置指导 <<](setup.md)
+[>> 开发环境搭建指导 <<](setup.md)
 
 **仓颉编程语言作为一款面向全场景应用开发的现代编程语言**，通过现代语言特性的集成、全方位的编译优化和运行时实现、以及开箱即用的 IDE 工具链支持，为开发者打造友好开发体验和卓越程序性能。其具体特性表现为：
 
