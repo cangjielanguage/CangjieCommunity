@@ -1,3 +1,5 @@
+# 开发环境搭建指导
+
 在[项目主页](https://gitcode.com/Cangjie)的“精选项目”板块，给出了仓颉通用工具链的三大平台版本，以及仓颉 VSCode 插件（各平台通用，支持工程创建、语法高亮和 LSP 等）
 
 <img src="https://cdn-img.gitcode.com/ba/aa/53b110a391aafc08eecd643471f645c9576312673bfe6ce27b22d9e3ccfa9b58.png"  width="50%">
