@@ -1,6 +1,6 @@
 ## 安装仓颉工具链
 
-在以上“精选项目”板块点击进入“CangjieSDK-Mac-Beta”项目页面，可以看到下图中的文件列表。
+在主页“精选项目”板块点击进入“CangjieSDK-Mac-Beta”项目页面，可以看到下图中的文件列表。
 
 <img src="https://raw.gitcode.com/Cangjie/CangjieCommunity/attachment/uploads/89102e18-05af-4bb2-9b4a-8f2b582e2431/0.png"  width="50%">
 
