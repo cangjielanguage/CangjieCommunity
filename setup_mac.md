@@ -6,7 +6,7 @@
 
 仓颉工具链适配了 x86_64 和 m 系列芯片，根据您所使用的设备情况下载相应的工具链包。
 
-在适当位置解压，您将看到下图中的文件列表，其中的 `envsetup.sh` 脚本用于配置仓颉运行环境，但当前 Mac版本工具链没有签名，未避免系统误报，我们需要用文本编辑器打开 `envsetup.sh` 文件，在 39 行之后添加一行内容： `xattr -dr com.apple.quarantine ${CANGJIE_HOME}/*`，参见下图中有背景高亮的部分。
+在适当位置解压，您将看到下图中的文件列表，其中的 `envsetup.sh` 脚本用于配置仓颉运行环境，但当前 Mac 版本工具链没有签名，为避免系统误报，请用文本编辑器打开 `envsetup.sh` 文件，在 39 行之后添加一行内容： `xattr -dr com.apple.quarantine ${CANGJIE_HOME}/*`，参见下图中有背景高亮的部分。
 
 <img src="https://raw.gitcode.com/Cangjie/CangjieCommunity/attachment/uploads/018a7662-d716-440b-8d0b-2ac1d9f9f48c/截屏2024-07-03_10.15.31.png"  width="50%">
 
