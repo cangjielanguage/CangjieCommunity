@@ -4,7 +4,7 @@
 
 <img src="https://cdn-img.gitcode.com/ba/aa/53b110a391aafc08eecd643471f645c9576312673bfe6ce27b22d9e3ccfa9b58.png"  width="50%">
 
-下面**以 Windows 平台为例**，介绍仓颉开发环境的搭建方法。
+下面**以 Windows 平台为例**，介绍仓颉开发环境的搭建方法，Mac 平台请参阅：[Mac 开发环境搭建指导](setup_mac.md)
 
 ## 安装仓颉工具链
 
