@@ -32,7 +32,7 @@
 
 # 周边社区
 
-**Cangjie-UsersForum**：[link](https://gitcode.com/Cangjie/UsersForum) （如有问题请您提交issue）
+**Cangjie-UsersForum**：[link](https://gitcode.com/Cangjie/UsersForum) （通过申请后可见，如有问题请您提交issue）
 
 **Cangjie-TPC**：[link](https://gitcode.com/Cangjie-TPC)
 
