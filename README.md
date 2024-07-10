@@ -14,11 +14,11 @@
 
 &nbsp;
 
-[仓颉 Linux Beta 版本，版本更新时间：2024-05-07](https://gitcode.com/Cangjie/CangjieSDK-Linux-Beta)
+[仓颉 Linux Beta 版本，版本更新时间：2024-05-07](https://gitcode.com/Cangjie/CangjieSDK-Linux-Beta) （通过申请后可见）
 
-[仓颉 Windows Beta 测试版本，版本更新时间：2024-05-07](https://gitcode.com/Cangjie/CangjieSDK-Win-Beta)
+[仓颉 Windows Beta 测试版本，版本更新时间：2024-05-07](https://gitcode.com/Cangjie/CangjieSDK-Win-Beta) （通过申请后可见）
 
-[仓颉 Mac Beta 测试版本，版本更新时间：2024-05-07](https://gitcode.com/Cangjie/CangjieSDK-Darwin)
+[仓颉 Mac Beta 测试版本，版本更新时间：2024-05-07](https://gitcode.com/Cangjie/CangjieSDK-Darwin) （通过申请后可见）
 
 # 官方文档
 
@@ -32,13 +32,13 @@
 
 # 周边社区
 
-**UsersForum**：[link](https://gitcode.com/Cangjie/UsersForum) (如有问题请您提交issue)
+**UsersForum**：[link](https://gitcode.com/Cangjie/UsersForum) （如有问题请您提交issue）
 
 **Cangjie-TPC**：[link](https://gitcode.com/Cangjie-TPC)
 
 # 学习资料
 
-官方入门课程：[link](https://developer.huawei.com/consumer/cn/training/course/slightMooc/C101718903607800132) [@Cangjie-Liujunjie]()
+官方入门课程：[link](https://developer.huawei.com/consumer/cn/training/course/slightMooc/C101718903607800132) [@Cangjie-Liujunjie](https://gitcode.com/EastGreatSummer)
 
 官方趣味实例教程：即将上线，敬请期待
 
