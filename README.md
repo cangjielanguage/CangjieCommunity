@@ -32,9 +32,9 @@
 
 # 周边社区
 
-**Cangjie-UsersForum**：[link](https://gitcode.com/Cangjie/UsersForum) （通过申请后可见，如有问题请您提交issue）
+**仓颉编程语言用户论坛（Cangjie-UsersForum）**：[link](https://gitcode.com/Cangjie/UsersForum) （通过申请后可见，如有问题请您提交issue）
 
-**Cangjie-TPC**：[link](https://gitcode.com/Cangjie-TPC)
+**仓颉编程语言三方库社区（Cangjie-TPC）**：[link](https://gitcode.com/Cangjie-TPC)
 
 # 学习资料
 
