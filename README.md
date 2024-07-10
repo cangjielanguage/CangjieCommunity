@@ -32,7 +32,7 @@
 
 # 周边社区
 
-**UsersForum**：[link](https://gitcode.com/Cangjie/UsersForum) （如有问题请您提交issue）
+**Cangjie-UsersForum**：[link](https://gitcode.com/Cangjie/UsersForum) （如有问题请您提交issue）
 
 **Cangjie-TPC**：[link](https://gitcode.com/Cangjie-TPC)
 
@@ -43,6 +43,12 @@
 官方趣味实例教程：即将上线，敬请期待
 
 官方教材：即将上线，敬请期待
+
+# 活动回顾
+
+2024 ACM 中国图灵大会｜华为仓颉编程语言论坛：[link](https://www.bilibili.com/video/BV17T421k7HU/?spm_id_from=333.999.0.0)
+
+2024 华为开发者大会 | 仓颉语言助力鸿蒙原生应用高效开发：回放视频准备中
 
 # 合作联系
 
