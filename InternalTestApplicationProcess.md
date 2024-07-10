@@ -12,7 +12,7 @@
 
 一般约为1-2个工作日（周六周日及节假日审核自动延后至工作日，如您有需求请您提前申请） cangjielang@huawei.com 会回复您欢迎您加入内测的邮件，请您仔细阅读。邮件如下方截图：
 
-![image.png](https://raw.gitcode.com/Cangjie/CangjieCommunity/attachment/uploads/c79e7649-0026-47fb-8259-c7965bb4c957/image.png 'image.png')
+<img src="https://raw.gitcode.com/Cangjie/CangjieCommunity/attachment/uploads/c79e7649-0026-47fb-8259-c7965bb4c957/image.png" width=512 height=256 />
 
 **请您务必点击申请加入仓颉编程语言官方社区的链接，否则您加入仓颉编程语言社区组织，并获取仓颉编程语言通用版本SDK及开发工具！**
 
@@ -22,11 +22,11 @@
 
 如果您顺利加入内测将能看到以下项目：
 
-![image.png](https://raw.gitcode.com/Cangjie/CangjieCommunity/attachment/uploads/45ef127f-b83c-4719-a773-f6be745bab42/image.png 'image.png')
+<img src="https://raw.gitcode.com/Cangjie/CangjieCommunity/attachment/uploads/45ef127f-b83c-4719-a773-f6be745bab42/image.png" width=512 height=256 />
 
 点开项目进行下载
 
-![image.png](https://raw.gitcode.com/Cangjie/CangjieCommunity/attachment/uploads/6b9f025e-96bd-4dc7-83e1-d4dfcba5f063/image.png 'image.png')
+<img src="https://raw.gitcode.com/Cangjie/CangjieCommunity/attachment/uploads/6b9f025e-96bd-4dc7-83e1-d4dfcba5f063/image.png" width=512 height=256 />
 
 **您可以点击安装包单独下载或使用 `git lfs` 下载仓库内容。由于 gitcode 对于文件大小的限制，`git clone` 会出现文件失效问题。**
 
