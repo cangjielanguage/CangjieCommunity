@@ -48,8 +48,8 @@
 
 官方邮箱：cangjie@huawei.com
 
-产业合作：[Cangjie-Dongxin](https://gitcode.com/SeanXDO) | [Cangjie-Wangxuezhi](https://gitcode.com/wangxuezhi355) | [Cangjie-Piaoguanyu]()
+产业合作：[Cangjie-Dongxin](https://gitcode.com/SeanXDO) | [Cangjie-Wangxuezhi](https://gitcode.com/wangxuezhi355) | [Cangjie-Piaoguanyu](https://gitcode.com/seansonlight)
 
-学研合作：[Cangjie-Liuwei]() | [Cangjie-Liujunjie]()
+学研合作：[Cangjie-Liuwei](https://gitcode.com/liuwei503388) | [Cangjie-Liujunjie](https://gitcode.com/EastGreatSummer)
 
-运营合作：[Cangjie-Zhaodanrong](https://gitcode.com/Leporide) | [Cangjie-Piaoguanyu]()
+运营合作：[Cangjie-Zhaodanrong](https://gitcode.com/Leporide) | [Cangjie-Piaoguanyu](https://gitcode.com/seansonlight)
