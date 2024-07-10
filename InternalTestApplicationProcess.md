@@ -42,6 +42,8 @@
 
 ### 如何获取使用仓颉编程语言开发 HarmonyOS NEXT 应用？
 
-答：请您点击如下链接：[HarmonyOS NEXT仓颉语言开发者预览版 Beta招募](https://developer.huawei.com/consumer/cn/activityDetail/cangjie-beta/)，该活动为定向招募活动，会采取分批推送的形式逐步推送SDK，逐渐扩大推送范围，还请您耐心等待！感谢！通用版本SDK，将会全量推送，申请流程无误的开发者均会仓颉编程语言社区组织，获得试用仓颉编程语言通用SDK资格。
+答：请您点击如下链接：[HarmonyOS NEXT仓颉语言开发者预览版 Beta招募](https://developer.huawei.com/consumer/cn/activityDetail/cangjie-beta/)，该活动为定向招募活动，会采取分批推送的形式逐步推送SDK，还请您耐心等待！感谢！
+
+通用版本SDK，将会全量推送，申请流程无误的开发者均会加入仓颉编程语言社区组织，获得试用仓颉编程语言通用SDK资格。
 
 如您有任何问题，可以发送邮件至：cangjielang@huawei.com，我们竭诚为您解答。
