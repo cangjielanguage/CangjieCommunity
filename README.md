@@ -70,7 +70,7 @@
 
 官方邮箱：cangjie@huawei.com
 
-产业合作：[@王学智](https://gitcode.com/wangxuezhi355) 仓颉编程语言生态与产业发展总监 | [@朴冠羽](https://gitcode.com/seansonlight)
+产业合作：[@王学智](https://gitcode.com/wangxuezhi355) 仓颉编程语言生态与产业发展总监 | [@朴冠羽](https://gitcode.com/seansonlight)（优先联系）
 
 学研合作：[@刘威](https://gitcode.com/liuwei503388) | [@刘俊杰](https://gitcode.com/EastGreatSummer)
 
