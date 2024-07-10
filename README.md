@@ -8,17 +8,21 @@
 
 **申请试用仓颉编程语言通用版本SDK**：[link](InternalTestApplicationProcess.md)
 
-**Windows 平台环境搭建指南**：[link](setup.md)
-
-**Mac 平台环境搭建指南**：[link](setup.md)
-
-&nbsp;
+# 版本链接
 
 [仓颉 Linux Beta 版本，版本更新时间：2024-05-07](https://gitcode.com/Cangjie/CangjieSDK-Linux-Beta) （通过申请后可见）
 
-[仓颉 Windows Beta 测试版本，版本更新时间：2024-05-07](https://gitcode.com/Cangjie/CangjieSDK-Win-Beta) （通过申请后可见）
+[仓颉 Windows Beta 版本，版本更新时间：2024-05-07](https://gitcode.com/Cangjie/CangjieSDK-Win-Beta) （通过申请后可见）
 
-[仓颉 Mac Beta 测试版本，版本更新时间：2024-05-07](https://gitcode.com/Cangjie/CangjieSDK-Darwin) （通过申请后可见）
+[仓颉 Mac Beta 版本，版本更新时间：2024-05-07](https://gitcode.com/Cangjie/CangjieSDK-Darwin) （通过申请后可见）
+
+[仓颉 VScode Plugin Beta 版本，版本更新时间：2024-05-07](https://gitcode.com/Cangjie/CangjieVScodePlugin) （通过申请后可见）
+
+&nbsp;
+
+**Windows 平台环境搭建指南**：[link](setup.md)
+
+**Mac 平台环境搭建指南**：[link](setup.md)
 
 # 官方文档
 
@@ -36,26 +40,38 @@
 
 **仓颉编程语言三方库社区（Cangjie-TPC）**：[link](https://gitcode.com/Cangjie-TPC)
 
+# 专家报告
+
+**关键技术：**
+
++ 《仓颉：一款全场景智能化应用编程语言》 [@冯新宇]() 南京大学教授 华为编程语言首席技术专家 仓颉编程语言首席架构师
++ [《面向全场景应用的新一代编程语言》](https://www.bilibili.com/video/BV1pT421k7kV/?spm_id_from=333.788&vd_source=f6c2fd8549647361561d1c964414fe7f) [@董鑫](https://gitcode.com/SeanXDO) 仓颉编程语言项目群总监
++ [《仓颉语言原生鸿蒙应用开发》](https://www.bilibili.com/video/BV15w4m1Y7GS/?spm_id_from=333.788&vd_source=f6c2fd8549647361561d1c964414fe7f) [@徐潇]() 华为编程语言实验室架构师
++ [《仓颉语言并行并发》](https://www.bilibili.com/video/BV1q1421k7uz/?spm_id_from=333.788&vd_source=f6c2fd8549647361561d1c964414fe7f) [@范长春]() 华为编程语言实验室架构师
++ [《仓颉语言全并发GC》](https://www.bilibili.com/video/BV1ri421Y7nu/?spm_id_from=333.788&vd_source=f6c2fd8549647361561d1c964414fe7f) [@杨勇勇]() 华为虚拟机实验室架构师
++ [《大模型辅助仓颉代码生成技术》](https://www.bilibili.com/video/BV1Wf421z7kb/?spm_id_from=333.788&vd_source=f6c2fd8549647361561d1c964414fe7f) [@郭圆平]() 华为软件IDE实验室架构师
+
+**应用实践：**
+
++ [《力扣鸿蒙原生应用仓颉语言开发实践》](https://www.bilibili.com/video/BV1Nw4m1Y7s5/?spm_id_from=333.788&vd_source=f6c2fd8549647361561d1c964414fe7f) [@叶海健]() LeetCode 移动端技术经理
++ [《仓颉原生Redis客户端探索与实践》](https://mp.weixin.qq.com/s?__biz=Mzg4NDY1NzM0MA==&mid=2247493127&idx=1&sn=f428494883baa9a79a86b68bbe3ef011&chksm=cfb67bd4f8c1f2c2d76a0dbd614a4e856334c6a48ae59af2926f9ce0f53791180a771c390413&token=314669346&lang=zh_CN#rd) [@杨富平]() 宝兰德中间件产品组资深架构师
+
+更多内容即将上线
+
 # 学习资料
 
-官方入门课程：[link](https://developer.huawei.com/consumer/cn/training/course/slightMooc/C101718903607800132) [@Cangjie-Liujunjie](https://gitcode.com/EastGreatSummer)
+官方入门课程：[link](https://developer.huawei.com/consumer/cn/training/course/slightMooc/C101718903607800132) [@刘俊杰](https://gitcode.com/EastGreatSummer) 仓颉编程语言布道师
 
 官方趣味实例教程：即将上线，敬请期待
 
 官方教材：即将上线，敬请期待
 
-# 活动回顾
-
-2024 ACM 中国图灵大会｜华为仓颉编程语言论坛：[link](https://www.bilibili.com/video/BV17T421k7HU/?spm_id_from=333.999.0.0)
-
-2024 华为开发者大会 | 仓颉语言助力鸿蒙原生应用高效开发：回放视频准备中
-
 # 合作联系
 
 官方邮箱：cangjie@huawei.com
 
-产业合作：[Cangjie-Dongxin](https://gitcode.com/SeanXDO) | [Cangjie-Wangxuezhi](https://gitcode.com/wangxuezhi355) | [Cangjie-Piaoguanyu](https://gitcode.com/seansonlight)
+产业合作：[@董鑫](https://gitcode.com/SeanXDO) 仓颉编程语言项目群总监 | [@王学智](https://gitcode.com/wangxuezhi355) 仓颉编程语言生态与产业发展总监 | [@朴冠羽](https://gitcode.com/seansonlight)
 
-学研合作：[Cangjie-Liuwei](https://gitcode.com/liuwei503388) | [Cangjie-Liujunjie](https://gitcode.com/EastGreatSummer)
+学研合作：[@刘威](https://gitcode.com/liuwei503388) | [@刘俊杰](https://gitcode.com/EastGreatSummer)
 
-运营合作：[Cangjie-Zhaodanrong](https://gitcode.com/Leporide) | [Cangjie-Piaoguanyu](https://gitcode.com/seansonlight)
+运营合作：[@赵丹荣](https://gitcode.com/Leporide) | [@朴冠羽](https://gitcode.com/seansonlight)
