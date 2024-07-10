@@ -10,7 +10,7 @@
 
 ## STEP2 官方回复邮件
 
-一般约为1-2个工作日（周六周日及节假日审核自动延后至工作日，如您有需求请您提前申请） cangjielang@huawei.com 会回复您欢迎您加入内测的邮件，请您仔细阅读。邮件如下方截图：
+一般约为1-2个工作日（周六周日及节假日审核自动延后至工作日，如您有需求请您提前申请） cangjie@huawei.com 会回复您欢迎您加入内测的邮件，请您仔细阅读。邮件如下方截图：
 
 <img src="https://raw.gitcode.com/Cangjie/CangjieCommunity/attachment/uploads/c79e7649-0026-47fb-8259-c7965bb4c957/image.png" width=512 height=256 />
 
@@ -42,8 +42,12 @@
 
 ### 如何获取使用仓颉编程语言开发 HarmonyOS NEXT 应用？
 
-答：请您点击如下链接：[HarmonyOS NEXT仓颉语言开发者预览版 Beta招募](https://developer.huawei.com/consumer/cn/activityDetail/cangjie-beta/)，该活动为定向招募活动，会采取分批推送的形式逐步推送SDK，还请您耐心等待！感谢！
+答：请您点击如下链接：[HarmonyOS NEXT仓颉语言开发者预览版 Beta招募](https://developer.huawei.com/consumer/cn/activityDetail/cangjie-beta/)，该活动为定向招募活动，会采取分批推送的形式逐步推送SDK，还请您耐心等待！感谢！通用版本SDK将会全量推送，申请流程无误的开发者均会加入仓颉编程语言社区组织，获得试用仓颉编程语言通用SDK资格。
 
-通用版本SDK，将会全量推送，申请流程无误的开发者均会加入仓颉编程语言社区组织，获得试用仓颉编程语言通用SDK资格。
+&nbsp;
+
+根据社区规划，仓颉编程语言社区会逐步公开，直至完全开放，如果短时间给您带来不便，感谢您的谅解！
+
+&nbsp;
 
 如您有任何问题，可以发送邮件至：cangjie@huawei.com，我们竭诚为您解答。
