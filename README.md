@@ -30,7 +30,9 @@
 
 **仓颉编程语言工具使用指南**：参考各仓库docs文件
 
-# 三方库社区
+# 周边社区
+
+**UsersForum**：[link](https://gitcode.com/Cangjie/UsersForum) (如有问题请您提交issue)
 
 **Cangjie-TPC**：[link](https://gitcode.com/Cangjie-TPC)
 
@@ -44,7 +46,7 @@
 
 # 合作联系
 
-官方邮箱：cangjielang@huawei.com
+官方邮箱：cangjie@huawei.com
 
 产业合作：[Cangjie-Dongxin](https://gitcode.com/SeanXDO) | [Cangjie-Wangxuezhi](https://gitcode.com/wangxuezhi355) | [Cangjie-Piaoguanyu]()
 
