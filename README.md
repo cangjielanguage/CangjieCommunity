@@ -10,13 +10,15 @@
 
 # 版本链接
 
-[仓颉 Linux Beta 版本，版本更新时间：2024-05-07](https://gitcode.com/Cangjie/CangjieSDK-Linux-Beta) （通过申请后可见）
+[仓颉 Linux Beta 版本，版本更新时间：2024-07-15](https://gitcode.com/Cangjie/CangjieSDK-Linux-Beta) （通过申请后可见）
 
-[仓颉 Windows Beta 版本，版本更新时间：2024-05-07](https://gitcode.com/Cangjie/CangjieSDK-Win-Beta) （通过申请后可见）
+[仓颉 Windows Beta 版本，版本更新时间：2024-07-15](https://gitcode.com/Cangjie/CangjieSDK-Win-Beta) （通过申请后可见）
 
-[仓颉 Mac Beta 版本，版本更新时间：2024-05-07](https://gitcode.com/Cangjie/CangjieSDK-Darwin) （通过申请后可见）
+[仓颉 Mac Beta 版本，版本更新时间：2024-07-15](https://gitcode.com/Cangjie/CangjieSDK-Darwin) （通过申请后可见）
 
-[仓颉 VScode Plugin Beta 版本，版本更新时间：2024-05-07](https://gitcode.com/Cangjie/CangjieVScodePlugin) （通过申请后可见）
+[仓颉 VScode Plugin Beta 版本，版本更新时间：2024-07-15](https://gitcode.com/Cangjie/CangjieVScodePlugin) （通过申请后可见）
+
+[仓颉编程语言官方文档，版本更新时间：2024-07-15](https://gitcode.com/Cangjie/CangjieDocs/overview) （通过申请后可见）
 
 &nbsp;
 
@@ -44,7 +46,7 @@
 
 **关键技术：**
 
-+ [《仓颉：一款全场景智能化应用编程语言》](https://gitcode.com/Cangjie/CangjieCommunity/blob/main/%E6%B4%BB%E5%8A%A8%E5%9B%9E%E9%A1%BE/2024/%E5%85%A8%E7%90%83%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%A4%A7%E4%BC%9A/%E3%80%8A%E4%BB%93%E9%A2%89%EF%BC%9A%E4%B8%80%E6%AC%BE%E5%85%A8%E5%9C%BA%E6%99%AF%E6%99%BA%E8%83%BD%E5%8C%96%E5%BA%94%E7%94%A8%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E3%80%8B-%E5%86%AF%E6%96%B0%E5%AE%87.pdf) [@冯新宇]() 南京大学教授 华为编程语言首席技术专家 仓颉编程语言首席架构师
++ [《仓颉：一款全场景智能化应用编程语言》](https://www.bilibili.com/video/BV1hy411B7R9/)[ 演示文稿 ](https://gitcode.com/Cangjie/CangjieCommunity/blob/main/%E6%B4%BB%E5%8A%A8%E5%9B%9E%E9%A1%BE/2024/%E5%85%A8%E7%90%83%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%A4%A7%E4%BC%9A/%E3%80%8A%E4%BB%93%E9%A2%89%EF%BC%9A%E4%B8%80%E6%AC%BE%E5%85%A8%E5%9C%BA%E6%99%AF%E6%99%BA%E8%83%BD%E5%8C%96%E5%BA%94%E7%94%A8%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E3%80%8B-%E5%86%AF%E6%96%B0%E5%AE%87.pdf) [@冯新宇]() 南京大学教授 华为编程语言首席技术专家 仓颉编程语言首席架构师
 + [《面向全场景应用的新一代编程语言》](https://www.bilibili.com/video/BV1pT421k7kV/?spm_id_from=333.788&vd_source=f6c2fd8549647361561d1c964414fe7f) [@董鑫](https://gitcode.com/SeanXDO) 仓颉编程语言项目群总监
 + [《仓颉语言原生鸿蒙应用开发》](https://www.bilibili.com/video/BV15w4m1Y7GS/?spm_id_from=333.788&vd_source=f6c2fd8549647361561d1c964414fe7f) [@徐潇]() 华为编程语言实验室架构师
 + [《仓颉语言并行并发》](https://www.bilibili.com/video/BV1q1421k7uz/?spm_id_from=333.788&vd_source=f6c2fd8549647361561d1c964414fe7f) [@范长春]() 华为编程语言实验室架构师
