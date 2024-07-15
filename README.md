@@ -64,6 +64,8 @@
 
 官方入门课程：[link](https://developer.huawei.com/consumer/cn/training/course/slightMooc/C101718903607800132) [@刘俊杰](https://gitcode.com/EastGreatSummer) 仓颉编程语言布道师
 
+仓颉鸿蒙应用示例：[link](https://gitcode.com/Cangjie/HarmonyOS-Examples/overview) [@刘俊杰](https://gitcode.com/EastGreatSummer)
+
 官方趣味实例教程：即将上线，敬请期待
 
 官方教材：即将上线，敬请期待
