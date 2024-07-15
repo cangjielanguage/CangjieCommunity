@@ -30,11 +30,11 @@
 
 **仓颉编程语言白皮书**：[link](https://developer.huawei.com/consumer/cn/doc/openharmony-cangjie/cj-wp-abstract)
 
-**仓颉编程语言开发指南**：参考各仓库docs文件
+**仓颉编程语言开发指南**：[link](https://gitcode.com/Cangjie/CangjieDocs)
 
-**仓颉编程语言库API**：参考各仓库docs文件
+**仓颉编程语言库API**：[link](https://gitcode.com/Cangjie/CangjieDocs)
 
-**仓颉编程语言工具使用指南**：参考各仓库docs文件
+**仓颉编程语言工具使用指南**：[link](https://gitcode.com/Cangjie/CangjieDocs)
 
 # 周边社区
 
