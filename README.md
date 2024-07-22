@@ -18,7 +18,7 @@
 
 [仓颉 VScode Plugin Beta 版本，版本更新时间：2024-07-15](https://gitcode.com/Cangjie/CangjieVScodePlugin) （通过申请后可见）
 
-[仓颉编程语言官方文档，版本更新时间：2024-07-15](https://gitcode.com/Cangjie/CangjieDocs/overview) （通过申请后可见）
+[仓颉编程语言通用版本官方文档，版本更新时间：2024-07-15](https://gitcode.com/Cangjie/CangjieDocs/overview) （通过申请后可见）
 
 &nbsp;
 
