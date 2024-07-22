@@ -26,6 +26,8 @@
 
 **Mac 平台环境搭建指南**：[link](setup.md)
 
+**常见问题（申请/审核/权限/下载）**：[link](https://gitcode.com/Cangjie/CangjieCommunity/blob/main/InternalTestApplicationProcess.md)
+
 # 官方文档
 
 **仓颉编程语言白皮书**：[link](https://developer.huawei.com/consumer/cn/doc/openharmony-cangjie/cj-wp-abstract)
@@ -42,6 +44,7 @@
 
 **仓颉编程语言三方库社区（Cangjie-TPC）**：[link](https://gitcode.com/Cangjie-TPC)
 
+**仓颉鸿蒙原生应用开发者论坛（HarmonyOSNEXT-Cangjie-UsersForum）**：[link](https://gitcode.com/Cangjie/CangjieMoBileUsersForm)（通过招募活动审核及申请后可见，如有问题请您提交issue）
 # 专家报告
 
 **关键技术：**
@@ -52,6 +55,7 @@
 + [《仓颉语言并行并发》](https://www.bilibili.com/video/BV1q1421k7uz/?spm_id_from=333.788&vd_source=f6c2fd8549647361561d1c964414fe7f) [@范长春]() 华为编程语言实验室架构师
 + [《仓颉语言全并发GC》](https://www.bilibili.com/video/BV1ri421Y7nu/?spm_id_from=333.788&vd_source=f6c2fd8549647361561d1c964414fe7f) [@杨勇勇]() 华为虚拟机实验室架构师
 + [《大模型辅助仓颉代码生成技术》](https://www.bilibili.com/video/BV1Wf421z7kb/?spm_id_from=333.788&vd_source=f6c2fd8549647361561d1c964414fe7f) [@郭圆平]() 华为软件IDE实验室架构师
++ [《仓颉 High-Level IR 设计与实现》](https://mp.weixin.qq.com/s?__biz=Mzg4NDY1NzM0MA==&mid=2247497902&idx=1&sn=f66c17c9516d601d97c1336cee45062c&chksm=cfb6657df8c1ec6b267997e83c21c353976c111adb2d4acfb291390f7e566a2ef2452064feb0&token=67395171&lang=zh_CN#rd)[@涂玏]() 华为编程语言实验室架构师
 
 **应用实践：**
 
