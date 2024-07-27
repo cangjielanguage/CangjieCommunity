@@ -6,7 +6,7 @@
 
 # 试用指南
 
-**申请试用仓颉编程语言通用版本SDK**：[link](InternalTestApplicationProcess.md)
+[**申请试用仓颉编程语言通用版本SDK**](InternalTestApplicationProcess.md)
 
 # 版本链接
 
@@ -22,29 +22,29 @@
 
 &nbsp;
 
-**Windows 平台环境搭建指南**：[link](setup.md)
+[**Windows 平台环境搭建指南**](setup.md)
 
-**Mac 平台环境搭建指南**：[link](setup.md)
+[**Mac 平台环境搭建指南**](setup.md)
 
-**常见问题（申请/审核/权限/下载）**：[link](https://gitcode.com/Cangjie/CangjieCommunity/blob/main/InternalTestApplicationProcess.md)
+[**常见问题（申请/审核/权限/下载）**](https://gitcode.com/Cangjie/CangjieCommunity/blob/main/InternalTestApplicationProcess.md)
 
 # 官方文档
 
-**仓颉编程语言白皮书**：[link](https://developer.huawei.com/consumer/cn/doc/openharmony-cangjie/cj-wp-abstract)
+[**仓颉编程语言白皮书**](https://developer.huawei.com/consumer/cn/doc/openharmony-cangjie/cj-wp-abstract)
 
-**仓颉编程语言开发指南**：[link](https://gitcode.com/Cangjie/CangjieDocs)
+[**仓颉编程语言开发指南**](https://gitcode.com/Cangjie/CangjieDocs)
 
-**仓颉编程语言库API**：[link](https://gitcode.com/Cangjie/CangjieDocs)
+[**仓颉编程语言库API**](https://gitcode.com/Cangjie/CangjieDocs)
 
-**仓颉编程语言工具使用指南**：[link](https://gitcode.com/Cangjie/CangjieDocs)
+[**仓颉编程语言工具使用指南**](https://gitcode.com/Cangjie/CangjieDocs)
 
 # 周边社区
 
-**仓颉编程语言用户论坛（Cangjie-UsersForum）**：[link](https://gitcode.com/Cangjie/UsersForum) （通过申请后可见，如有问题请您提交issue）
+[**仓颉编程语言用户论坛（Cangjie-UsersForum）**](https://gitcode.com/Cangjie/UsersForum) （通过申请后可见，如有问题请您提交issue）
 
-**仓颉编程语言三方库社区（Cangjie-TPC）**：[link](https://gitcode.com/Cangjie-TPC)
+[**仓颉编程语言三方库社区（Cangjie-TPC）**](https://gitcode.com/Cangjie-TPC)
 
-**仓颉鸿蒙原生应用开发者论坛（HarmonyOSNEXT-Cangjie-UsersForum）**：[link](https://gitcode.com/Cangjie/CangjieMoBileUsersForm)（通过招募活动审核及申请后可见，如有问题请您提交issue）
+[**仓颉鸿蒙原生应用开发者论坛（HarmonyOSNEXT-Cangjie-UsersForum）**](https://gitcode.com/Cangjie/CangjieMoBileUsersForm)（通过招募活动审核及申请后可见，如有问题请您提交issue）
 # 专家报告
 
 **关键技术：**
@@ -66,9 +66,9 @@
 
 # 学习资料
 
-官方入门课程：[link](https://developer.huawei.com/consumer/cn/training/course/slightMooc/C101718903607800132) [@刘俊杰](https://gitcode.com/EastGreatSummer) 仓颉编程语言布道师
+[官方入门课程 ](https://developer.huawei.com/consumer/cn/training/course/slightMooc/C101718903607800132) [@刘俊杰](https://gitcode.com/EastGreatSummer) 仓颉编程语言布道师
 
-仓颉鸿蒙应用示例：[link](https://gitcode.com/Cangjie/HarmonyOS-Examples/overview) [@刘俊杰](https://gitcode.com/EastGreatSummer)
+[仓颉鸿蒙应用示例 ](https://gitcode.com/Cangjie/HarmonyOS-Examples/overview) [@刘俊杰](https://gitcode.com/EastGreatSummer)
 
 官方趣味实例教程：即将上线，敬请期待
 
