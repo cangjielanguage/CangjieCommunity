@@ -56,6 +56,7 @@
 + [《仓颉语言全并发GC》](https://www.bilibili.com/video/BV1ri421Y7nu/?spm_id_from=333.788&vd_source=f6c2fd8549647361561d1c964414fe7f) [@杨勇勇]() 华为虚拟机实验室架构师
 + [《大模型辅助仓颉代码生成技术》](https://www.bilibili.com/video/BV1Wf421z7kb/?spm_id_from=333.788&vd_source=f6c2fd8549647361561d1c964414fe7f) [@郭圆平]() 华为软件IDE实验室架构师
 + [《仓颉 High-Level IR 设计与实现》](https://mp.weixin.qq.com/s?__biz=Mzg4NDY1NzM0MA==&mid=2247497902&idx=1&sn=f66c17c9516d601d97c1336cee45062c&chksm=cfb6657df8c1ec6b267997e83c21c353976c111adb2d4acfb291390f7e566a2ef2452064feb0&token=67395171&lang=zh_CN#rd)[@涂玏]() 华为编程语言实验室架构师
++ [《仓颉并发机制的设计与实现》](https://mp.weixin.qq.com/s/BkTWLBXaxh-3TgNjFCjgwg)[@陈冬杰]() 华为编程语言实验室架构师
 
 **应用实践：**
 
@@ -63,6 +64,11 @@
 + [《仓颉原生Redis客户端探索与实践》](https://mp.weixin.qq.com/s?__biz=Mzg4NDY1NzM0MA==&mid=2247493127&idx=1&sn=f428494883baa9a79a86b68bbe3ef011&chksm=cfb67bd4f8c1f2c2d76a0dbd614a4e856334c6a48ae59af2926f9ce0f53791180a771c390413&token=314669346&lang=zh_CN#rd) [@杨富平]() 宝兰德中间件产品组资深架构师
 
 更多内容即将上线
+
+# 社区活动
+
+Workshop -[【仓颉社区】第23期Workshop](https://gitcode.com/Cangjie/CangjieCommunity/tree/main/Workshop/%E7%AC%AC23%E6%9C%9FWorkshop/slide)
+
 
 # 学习资料
 
