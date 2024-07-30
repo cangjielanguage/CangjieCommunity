@@ -64,33 +64,33 @@ IDE下载这里不做赘述，点击[仓颉语言 VScode 插件](https://gitcode
 
 ### 2.3 配置环境
 
-![配置环境](picture\03.png)
+![配置环境](picture/03.png)
 
-![配置环境](picture\04.png)
+![配置环境](picture/04.png)
 
 路径层次如下图：
 
-![配置环境](picture\05.png)
+![配置环境](picture/05.png)
 
 ### 2.4 初始化工程
 
 `Ctrl + Shift + P` 打开VScode功能搜索栏，输出 `Cangjie`，选择 `Create Cangjie Project`
 
-![配置环境](picture\06.png)
+![配置环境](picture/06.png)
 
 根据提示初始化仓颉项目（CJNative），如下图名为 demo 的仓颉工程
 
-![配置环境](picture\07.png)
+![配置环境](picture/07.png)
 
 配置文件字段详细说明详见[仓颉编程语言通用版本官方文档](https://gitcode.com/Cangjie/CangjieDocs/overview) （通过申请后可见）《仓颉语言工具使用指南》-仓颉语言命令行工具使用指南-包管理工具-模块配置文件说明
 
-![配置环境](picture\08.png)
+![配置环境](picture/08.png)
 
 ### 2.5 编译运行
 
 右上角三角按钮编译运行，或使用`cjpm run`运行
 
-![配置环境](picture\09.png)
+![配置环境](picture/09.png)
 
 恭喜您编译运行了第一仓颉程序
 
@@ -104,39 +104,39 @@ IDE下载这里不做赘述，点击[仓颉语言 VScode 插件](https://gitcode
 
 IDE下载这里不做赘述（推荐下载DevEco Studio NEXT Developer Beta2(5.0.3.500)），点击[DevEco Studio NEXT Developer Beta2-Cangjie Plugin 下载链接](https://developer.huawei.com/consumer/cn/download/) （HarmonyOS NEXT 仓颉语言开发者预览版申请后可见）
 
-![配置环境](picture\10.png)
+![配置环境](picture/10.png)
 
 ### 3.2 配置环境
 
 打开 DevEco Studio 选择 `Customize`，选择 `All settings...`
 
-![配置环境](picture\12.png)
+![配置环境](picture/12.png)
 
 选择 `Plugins`，选择 `install Plugin from Disk...`
 
-![配置环境](picture\13.png)
+![配置环境](picture/13.png)
 
 选中下载的 DevEco Studio NEXT Developer Beta2-Cangjie Plugin 压缩包，进行安装
 
-![配置环境](picture\14.png)
+![配置环境](picture/14.png)
 
 安装结束后点击 Restart IDE，完成安装
 
-![配置环境](picture\15.png)
+![配置环境](picture/15.png)
 
 ### 3.3 初始化工程
 
 回到创建工程界面，选择 `Create Project`
 
-![配置环境](picture\11.png)
+![配置环境](picture/11.png)
 
 选择 `[Cangjie]Empty Ability`
 
-![配置环境](picture\16.png)
+![配置环境](picture/16.png)
 
 工程初始化成功
 
-![配置环境](picture\17.png)
+![配置环境](picture/17.png)
 
 ### 3.4 编译运行
 
