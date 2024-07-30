@@ -2,7 +2,7 @@
 
 **仓颉编程语言通用版本(服务端等领域开发)**
 
-[仓颉通用版本申请链接](https://wj.qq.com/s2/14870499/c76f/)
+[仓颉通用版本申请链接](https://wj.qq.com/s2/14870499/c76f/)（申请前建议优先看注意事项）
 
 [仓颉 Linux Beta 版本下载链接](https://gitcode.com/Cangjie/CangjieSDK-Linux-Beta) （通过申请后可见）
 
@@ -18,13 +18,13 @@
 
 **HarmonyOS NEXT 仓颉语言开发者预览版(鸿蒙原生应用开发)**
 
-[HarmonyOS NEXT 仓颉语言开发者预览版申请链接](https://developer.huawei.com/consumer/cn/activityDetail/cangjie-beta/)
+[HarmonyOS NEXT 仓颉语言开发者预览版申请链接](https://developer.huawei.com/consumer/cn/activityDetail/cangjie-beta/)（申请前建议优先看注意事项）
 
 [DevEco Studio NEXT Developer Beta2-Cangjie Plugin 下载链接](https://developer.huawei.com/consumer/cn/download/) （HarmonyOS NEXT 仓颉语言开发者预览版申请后可见）
 
 [仓颉鸿蒙原生应用开发者论坛](https://gitcode.com/Cangjie/CangjieMoBileUsersForm) （HarmonyOS NEXT 仓颉语言开发者预览版申请后可见）
 
-## 1 审核不通过可能情况
+## 1 注意事项
 
 ### 1.1 仓颉编程语言通用版本审核不过可能原因
 
