@@ -10,15 +10,27 @@
 
 # 版本链接
 
-[仓颉 Linux Beta 版本，版本更新时间：2024-07-15](https://gitcode.com/Cangjie/CangjieSDK-Linux-Beta) （通过申请后可见）
+**HarmonyOS NEXT 仓颉语言开发者预览版(鸿蒙原生应用开发)**
 
-[仓颉 Windows Beta 版本，版本更新时间：2024-07-15](https://gitcode.com/Cangjie/CangjieSDK-Win-Beta) （通过申请后可见）
+[HarmonyOS NEXT 仓颉语言开发者预览版申请链接](https://developer.huawei.com/consumer/cn/activityDetail/cangjie-beta/)
 
-[仓颉 Mac Beta 版本，版本更新时间：2024-07-15](https://gitcode.com/Cangjie/CangjieSDK-Darwin) （通过申请后可见）
+[DevEco Studio NEXT Developer Beta2-Cangjie Plugin 下载链接，版本更新时间：2024-07-19](https://developer.huawei.com/consumer/cn/download/) （HarmonyOS NEXT 仓颉语言开发者预览版申请后可见）
 
-[仓颉 VScode Plugin Beta 版本，版本更新时间：2024-07-15](https://gitcode.com/Cangjie/CangjieVScodePlugin) （通过申请后可见）
+ <br />
 
-[仓颉编程语言通用版本官方文档，版本更新时间：2024-07-15](https://gitcode.com/Cangjie/CangjieDocs/overview) （通过申请后可见）
+**仓颉编程语言通用版本(服务端等领域开发)**
+
+[仓颉通用版本申请链接](https://wj.qq.com/s2/14870499/c76f/)
+
+[仓颉 Linux Beta 版本下载链接，版本更新时间：2024-07-15](https://gitcode.com/Cangjie/CangjieSDK-Linux-Beta) （通过申请后可见）
+
+[仓颉 Windows Beta 版本下载链接，版本更新时间：2024-07-15](https://gitcode.com/Cangjie/CangjieSDK-Win-Beta) （通过申请后可见）
+
+[仓颉 Mac Beta 版本下载链接，版本更新时间：2024-07-15](https://gitcode.com/Cangjie/CangjieSDK-Darwin) （通过申请后可见）
+
+[仓颉 VScode Plugin Beta 版本下载链接，版本更新时间：2024-07-15](https://gitcode.com/Cangjie/CangjieVScodePlugin) （通过申请后可见）
+
+[仓颉编程语言通用版本官方文档下载链接，版本更新时间：2024-07-15](https://gitcode.com/Cangjie/CangjieDocs/overview) （通过申请后可见）
 
 # 官方文档
 
@@ -65,9 +77,11 @@ Workshop -【仓颉社区】第23期Workshop [演示文稿](https://gitcode.com/
 
 # 学习资料
 
-[官方入门课程 ](https://developer.huawei.com/consumer/cn/training/course/slightMooc/C101718903607800132) [@刘俊杰](https://gitcode.com/EastGreatSummer) 仓颉编程语言布道师
+[入门课程 ](https://developer.huawei.com/consumer/cn/training/course/slightMooc/C101718903607800132) [@刘俊杰](https://gitcode.com/EastGreatSummer) 仓颉编程语言布道师
 
 [仓颉鸿蒙应用示例 ](https://gitcode.com/Cangjie/HarmonyOS-Examples/overview) [@刘俊杰](https://gitcode.com/EastGreatSummer)
+
+[UI开发入门课程 ](https://developer.huawei.com/consumer/cn/training/course/slightMooc/C101720786490569532)
 
 官方趣味实例教程：即将上线，敬请期待
 
