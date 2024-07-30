@@ -6,7 +6,7 @@
 
 # 试用指南
 
-[**申请试用仓颉编程语言通用版本SDK**](InternalTestApplicationProcess.md)
+[**一篇文章带你了解仓颉所有开发套件获取及安装**](Guide.md)
 
 # 版本链接
 
@@ -19,14 +19,6 @@
 [仓颉 VScode Plugin Beta 版本，版本更新时间：2024-07-15](https://gitcode.com/Cangjie/CangjieVScodePlugin) （通过申请后可见）
 
 [仓颉编程语言通用版本官方文档，版本更新时间：2024-07-15](https://gitcode.com/Cangjie/CangjieDocs/overview) （通过申请后可见）
-
-&nbsp;
-
-[**Windows 平台环境搭建指南**](setup.md)
-
-[**Mac 平台环境搭建指南**](setup.md)
-
-[**常见问题（申请/审核/权限/下载）**](https://gitcode.com/Cangjie/CangjieCommunity/blob/main/InternalTestApplicationProcess.md)
 
 # 官方文档
 
@@ -45,6 +37,7 @@
 [**仓颉编程语言三方库社区（Cangjie-TPC）**](https://gitcode.com/Cangjie-TPC)
 
 [**仓颉鸿蒙原生应用开发者论坛（HarmonyOSNEXT-Cangjie-UsersForum）**](https://gitcode.com/Cangjie/CangjieMoBileUsersForm)（通过招募活动审核及申请后可见，如有问题请您提交issue）
+
 # 专家报告
 
 **关键技术：**
