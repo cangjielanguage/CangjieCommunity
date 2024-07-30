@@ -67,7 +67,7 @@
 
 # 社区活动
 
-Workshop -[【仓颉社区】第23期Workshop](https://gitcode.com/Cangjie/CangjieCommunity/tree/main/Workshop/%E7%AC%AC23%E6%9C%9FWorkshop/slide)
+Workshop -【仓颉社区】第23期Workshop [演示文稿](https://gitcode.com/Cangjie/CangjieCommunity/tree/main/Workshop/%E7%AC%AC23%E6%9C%9FWorkshop/slide) 	[回顾视频](https://www.bilibili.com/video/BV1YW42197bP)
 
 
 # 学习资料
