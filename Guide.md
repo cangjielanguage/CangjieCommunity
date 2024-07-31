@@ -56,7 +56,7 @@ IDE下载这里不做赘述，点击[仓颉语言 VScode 插件](https://gitcode
 
 ### 2.2 下载仓颉编程语言通用版本SDK
 
-点击[仓颉编程语言通用版本SDK（Windows）](https://gitcode.com/Cangjie/CangjieVScodePlugin/overview)进入代码仓下载并解压缩
+点击[仓颉编程语言通用版本SDK（Windows）](https://gitcode.com/Cangjie/CangjieSDK-Win-Beta)进入代码仓下载并解压缩
 
 ![仓颉编程语言通用版本SDK](picture/02.png)
 
