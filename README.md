@@ -22,15 +22,15 @@
 
 [仓颉通用版本申请链接](https://wj.qq.com/s2/14870499/c76f/)
 
-[仓颉 Linux Beta 版本下载链接，版本更新时间：2024-07-15](https://gitcode.com/Cangjie/CangjieSDK-Linux-Beta) （通过申请后可见）
+[仓颉 Linux Beta 版本下载链接，版本更新时间：2024-08-15](https://gitcode.com/Cangjie/CangjieSDK-Linux-Beta) （通过申请后可见）
 
-[仓颉 Windows Beta 版本下载链接，版本更新时间：2024-07-15](https://gitcode.com/Cangjie/CangjieSDK-Win-Beta) （通过申请后可见）
+[仓颉 Windows Beta 版本下载链接，版本更新时间：2024-08-15](https://gitcode.com/Cangjie/CangjieSDK-Win-Beta) （通过申请后可见）
 
-[仓颉 Mac Beta 版本下载链接，版本更新时间：2024-07-15](https://gitcode.com/Cangjie/CangjieSDK-Darwin) （通过申请后可见）
+[仓颉 Mac Beta 版本下载链接，版本更新时间：2024-08-15](https://gitcode.com/Cangjie/CangjieSDK-Darwin) （通过申请后可见）
 
-[仓颉 VScode Plugin Beta 版本下载链接，版本更新时间：2024-07-15](https://gitcode.com/Cangjie/CangjieVScodePlugin) （通过申请后可见）
+[仓颉 VScode Plugin Beta 版本下载链接，版本更新时间：2024-08-15](https://gitcode.com/Cangjie/CangjieVScodePlugin) （通过申请后可见）
 
-[仓颉编程语言通用版本官方文档下载链接，版本更新时间：2024-07-15](https://gitcode.com/Cangjie/CangjieDocs/overview) （通过申请后可见）
+[仓颉编程语言通用版本官方文档下载链接，版本更新时间：2024-08-15](https://gitcode.com/Cangjie/CangjieDocs/overview) （通过申请后可见）
 
 # 官方文档
 
@@ -91,6 +91,8 @@ Workshop -【仓颉社区】第23期Workshop [演示文稿](https://gitcode.com/
 
 官方教材：即将上线，敬请期待
 
+# 相关信息
+[仓颉工程师招聘信息汇总](https://gitcode.com/Cangjie/CangjieCommunity/blob/main/career.md)
 # 合作联系
 
 官方邮箱：cangjie@huawei.com
@@ -100,6 +102,8 @@ Workshop -【仓颉社区】第23期Workshop [演示文稿](https://gitcode.com/
 学研合作：[@刘威](https://gitcode.com/liuwei503388) | [@刘俊杰](https://gitcode.com/EastGreatSummer)
 
 运营合作：[@赵丹荣](https://gitcode.com/Leporide) | [@朴冠羽](https://gitcode.com/seansonlight)
+
+
 
 # 媒体矩阵
 
