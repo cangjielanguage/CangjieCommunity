@@ -8,6 +8,8 @@
 
 [**一篇文章带你了解仓颉所有开发套件获取及安装**](Guide.md)
 
+[参与Cangjie-TPC三方库建设：如何贡献](https://gitcode.com/Cangjie-TPC/TPC-Resource/blob/main/HowToContribute.md)
+
 # 版本链接
 
 **HarmonyOS NEXT 仓颉语言开发者预览版(鸿蒙原生应用开发)**
