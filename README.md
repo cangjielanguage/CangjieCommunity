@@ -67,6 +67,7 @@
 + [《类型推断技术及仓颉语言实践
 》](https://mp.weixin.qq.com/s?biz=Mzg4NDY1NzM0MA==&mid=2247498239&idx=1&sn=3d144e789c3575605bb475d99b0a9bdc&chksm=cfb6642cf8c1ed3a7a19a42163cfa8bcf788f7877b133d8bfaa3ec033f88a4125d4d11119dd3&token=579129142&lang=zh_CN#rd)[@史磊]() 仓颉语言类型推断技术专家
 + [《仓颉语言运行时轻量化实践》](https://mp.weixin.qq.com/s?__biz=Mzg4NDY1NzM0MA==&mid=2247498278&idx=1&sn=2819b030e93ed8891ec738f6f1e5f618&chksm=cfb667f5f8c1eee309b4687063229069350c8ea8d3fda708d6a42ce477d4837a191a33badd52&token=1627187969&lang=zh_CN#rd)[@杨勇勇]() 华为语言虚拟机实验室架构师
++ [《Cangjie macro expansion》](https://mp.weixin.qq.com/s?__biz=Mzg4NDY1NzM0MA==&mid=2247498305&idx=1&sn=778a4af1c2cdf661fa6e8c47d5aa574b&chksm=cfb66792f8c1ee847d7864e93ba3eade3ae93ea0d9df0428ae3f78fcc424c58bbb775b994438&token=1968558716&lang=zh_CN#rd)[@MASAK CARL WILHELM]() 华为编程语言实验室架构师
 
 
 **应用实践：**
