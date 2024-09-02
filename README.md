@@ -6,31 +6,37 @@
 
 # 试用指南
 
-[**申请试用仓颉编程语言通用版本SDK**](InternalTestApplicationProcess.md)
+[**一篇文章带你了解仓颉所有开发套件获取及安装**](Guide.md)
+
+[参与Cangjie-TPC三方库建设：如何贡献](https://gitcode.com/Cangjie-TPC/TPC-Resource/blob/main/HowToContribute.md)
 
 # 版本链接
 
-[仓颉 Linux Beta 版本，版本更新时间：2024-07-15](https://gitcode.com/Cangjie/CangjieSDK-Linux-Beta) （通过申请后可见）
+**HarmonyOS NEXT 仓颉语言开发者预览版(鸿蒙原生应用开发)**
 
-[仓颉 Windows Beta 版本，版本更新时间：2024-07-15](https://gitcode.com/Cangjie/CangjieSDK-Win-Beta) （通过申请后可见）
+[HarmonyOS NEXT 仓颉语言开发者预览版申请链接](https://developer.huawei.com/consumer/cn/activityDetail/cangjie-beta/)
 
-[仓颉 Mac Beta 版本，版本更新时间：2024-07-15](https://gitcode.com/Cangjie/CangjieSDK-Darwin) （通过申请后可见）
+[DevEco Studio NEXT Developer Beta5-Cangjie Plugin，下载链接，版本更新时间：2024-08-21](https://developer.huawei.com/consumer/cn/download/) （HarmonyOS NEXT 仓颉语言开发者预览版申请后可见）
 
-[仓颉 VScode Plugin Beta 版本，版本更新时间：2024-07-15](https://gitcode.com/Cangjie/CangjieVScodePlugin) （通过申请后可见）
+ <br />
 
-[仓颉编程语言通用版本官方文档，版本更新时间：2024-07-15](https://gitcode.com/Cangjie/CangjieDocs/overview) （通过申请后可见）
+**仓颉编程语言通用版本(服务端等领域开发)**
 
-&nbsp;
+[仓颉通用版本申请链接](https://wj.qq.com/s2/14870499/c76f/)
 
-[**Windows 平台环境搭建指南**](setup.md)
+[仓颉 Linux Beta 版本下载链接，版本更新时间：2024-08-15](https://gitcode.com/Cangjie/CangjieSDK-Linux-Beta) （通过申请后可见）
 
-[**Mac 平台环境搭建指南**](setup.md)
+[仓颉 Windows Beta 版本下载链接，版本更新时间：2024-08-15](https://gitcode.com/Cangjie/CangjieSDK-Win-Beta) （通过申请后可见）
 
-[**常见问题（申请/审核/权限/下载）**](https://gitcode.com/Cangjie/CangjieCommunity/blob/main/InternalTestApplicationProcess.md)
+[仓颉 Mac Beta 版本下载链接，版本更新时间：2024-08-15](https://gitcode.com/Cangjie/CangjieSDK-Darwin) （通过申请后可见）
+
+[仓颉 VScode Plugin Beta 版本下载链接，版本更新时间：2024-08-15](https://gitcode.com/Cangjie/CangjieVScodePlugin) （通过申请后可见）
+
+[仓颉编程语言通用版本官方文档下载链接，版本更新时间：2024-08-15](https://gitcode.com/Cangjie/CangjieDocs/overview) （通过申请后可见）
 
 # 官方文档
 
-[**仓颉编程语言白皮书**](https://developer.huawei.com/consumer/cn/doc/openharmony-cangjie/cj-wp-abstract)
+[**仓颉编程语言白皮书**](https://developer.huawei.com/consumer/cn/doc/cangjie-guides-V5/cj-wp-abstract-V5)
 
 [**仓颉编程语言开发指南**](https://gitcode.com/Cangjie/CangjieDocs)
 
@@ -45,6 +51,7 @@
 [**仓颉编程语言三方库社区（Cangjie-TPC）**](https://gitcode.com/Cangjie-TPC)
 
 [**仓颉鸿蒙原生应用开发者论坛（HarmonyOSNEXT-Cangjie-UsersForum）**](https://gitcode.com/Cangjie/CangjieMoBileUsersForm)（通过招募活动审核及申请后可见，如有问题请您提交issue）
+
 # 专家报告
 
 **关键技术：**
@@ -56,6 +63,11 @@
 + [《仓颉语言全并发GC》](https://www.bilibili.com/video/BV1ri421Y7nu/?spm_id_from=333.788&vd_source=f6c2fd8549647361561d1c964414fe7f) [@杨勇勇]() 华为虚拟机实验室架构师
 + [《大模型辅助仓颉代码生成技术》](https://www.bilibili.com/video/BV1Wf421z7kb/?spm_id_from=333.788&vd_source=f6c2fd8549647361561d1c964414fe7f) [@郭圆平]() 华为软件IDE实验室架构师
 + [《仓颉 High-Level IR 设计与实现》](https://mp.weixin.qq.com/s?__biz=Mzg4NDY1NzM0MA==&mid=2247497902&idx=1&sn=f66c17c9516d601d97c1336cee45062c&chksm=cfb6657df8c1ec6b267997e83c21c353976c111adb2d4acfb291390f7e566a2ef2452064feb0&token=67395171&lang=zh_CN#rd)[@涂玏]() 华为编程语言实验室架构师
++ [《仓颉并发机制的设计与实现》](https://mp.weixin.qq.com/s/BkTWLBXaxh-3TgNjFCjgwg)[@陈冬杰]() 华为编程语言实验室架构师
++ [《类型推断技术及仓颉语言实践
+》](https://mp.weixin.qq.com/s?biz=Mzg4NDY1NzM0MA==&mid=2247498239&idx=1&sn=3d144e789c3575605bb475d99b0a9bdc&chksm=cfb6642cf8c1ed3a7a19a42163cfa8bcf788f7877b133d8bfaa3ec033f88a4125d4d11119dd3&token=579129142&lang=zh_CN#rd)[@史磊]() 仓颉语言类型推断技术专家
++ [《仓颉语言运行时轻量化实践》](https://mp.weixin.qq.com/s?__biz=Mzg4NDY1NzM0MA==&mid=2247498278&idx=1&sn=2819b030e93ed8891ec738f6f1e5f618&chksm=cfb667f5f8c1eee309b4687063229069350c8ea8d3fda708d6a42ce477d4837a191a33badd52&token=1627187969&lang=zh_CN#rd)[@杨勇勇]() 华为语言虚拟机实验室架构师
+
 
 **应用实践：**
 
@@ -64,16 +76,25 @@
 
 更多内容即将上线
 
+# 社区活动
+
+Workshop -【仓颉社区】第23期Workshop [演示文稿](https://gitcode.com/Cangjie/CangjieCommunity/tree/main/Workshop/%E7%AC%AC23%E6%9C%9FWorkshop/slide) 	[回顾视频](https://www.bilibili.com/video/BV1YW42197bP)
+
+
 # 学习资料
 
-[官方入门课程 ](https://developer.huawei.com/consumer/cn/training/course/slightMooc/C101718903607800132) [@刘俊杰](https://gitcode.com/EastGreatSummer) 仓颉编程语言布道师
+[入门课程 ](https://developer.huawei.com/consumer/cn/training/course/slightMooc/C101718903607800132) [@刘俊杰](https://gitcode.com/EastGreatSummer) 仓颉编程语言布道师
 
 [仓颉鸿蒙应用示例 ](https://gitcode.com/Cangjie/HarmonyOS-Examples/overview) [@刘俊杰](https://gitcode.com/EastGreatSummer)
+
+[UI开发入门课程 ](https://developer.huawei.com/consumer/cn/training/course/slightMooc/C101720786490569532)
 
 官方趣味实例教程：即将上线，敬请期待
 
 官方教材：即将上线，敬请期待
 
+# 相关信息
+[仓颉工程师招聘信息汇总](https://gitcode.com/Cangjie/CangjieCommunity/blob/main/career.md)
 # 合作联系
 
 官方邮箱：cangjie@huawei.com
@@ -83,6 +104,8 @@
 学研合作：[@刘威](https://gitcode.com/liuwei503388) | [@刘俊杰](https://gitcode.com/EastGreatSummer)
 
 运营合作：[@赵丹荣](https://gitcode.com/Leporide) | [@朴冠羽](https://gitcode.com/seansonlight)
+
+
 
 # 媒体矩阵
 
