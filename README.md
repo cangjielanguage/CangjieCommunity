@@ -16,7 +16,7 @@
 
 [HarmonyOS NEXT 仓颉语言开发者预览版申请链接](https://developer.huawei.com/consumer/cn/activityDetail/cangjie-beta/)
 
-[DevEco Studio NEXT Developer Beta5-Cangjie Plugin，下载链接，版本更新时间：2024-08-21](https://developer.huawei.com/consumer/cn/download/) （HarmonyOS NEXT 仓颉语言开发者预览版申请后可见）
+[DevEco Studio NEXT Developer Beta5-Cangjie Plugin，下载链接，版本更新时间：2024-09-06](https://developer.huawei.com/consumer/cn/download/) （HarmonyOS NEXT 仓颉语言开发者预览版申请后可见）
 
  <br />
 
@@ -79,7 +79,7 @@
 
 # 社区活动
 
-月度活动 - Workshop  [往期回顾，已更新至第24期](https://gitcode.com/Cangjie/CangjieCommunity/blob/main/Workshop/workshop.md)
+月度活动 - Workshop  [往期回顾，最近更新：2024年8月（第24期）](https://gitcode.com/Cangjie/CangjieCommunity/blob/main/Workshop/workshop.md)
 
 
 # 学习资料
