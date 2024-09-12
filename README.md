@@ -30,7 +30,7 @@
 
 [仓颉 Mac Beta 版本下载链接，版本更新时间：2024-09-11](https://gitcode.com/Cangjie/CangjieSDK-Darwin) （通过申请后可见）
 
-[仓颉 VScode Plugin Beta 版本下载链接，版本更新时间：2024-08-15](https://gitcode.com/Cangjie/CangjieVScodePlugin) （通过申请后可见）
+[仓颉 VScode Plugin Beta 版本下载链接，版本更新时间：2024-09-12](https://gitcode.com/Cangjie/CangjieVScodePlugin) （通过申请后可见）
 
 [仓颉编程语言通用版本官方文档下载链接，版本更新时间：2024-09-11](https://gitcode.com/Cangjie/CangjieDocs/overview) （通过申请后可见）
 
