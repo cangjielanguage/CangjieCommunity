@@ -15,6 +15,8 @@
 
 [**一篇文章带你了解仓颉所有开发套件获取及安装**](Guide.md)
 
+[Cangjie-TPC开源三方库资源汇总](https://gitcode.com/Cangjie-TPC/TPC-Resource/overview)
+
 [参与Cangjie-TPC三方库建设：如何贡献](https://gitcode.com/Cangjie-TPC/TPC-Resource/blob/main/HowToContribute.md)
 
 # 版本链接
