@@ -33,15 +33,15 @@
 
 [仓颉通用版本Dev Channel申请链接](https://wj.qq.com/s2/14870499/c76f/)
 
-+ [仓颉 Linux Dev 版本下载链接，版本更新时间：2024-10-23](https://gitcode.com/Cangjie/CangjieSDK-Linux-Beta) （通过申请后可见）
++ [仓颉 Linux Dev 版本下载链接，版本更新时间：2024-11-15](https://gitcode.com/Cangjie/CangjieSDK-Linux-Beta) （通过申请后可见）
 
-+ [仓颉 Windows Dev 版本下载链接，版本更新时间：2024-10-23](https://gitcode.com/Cangjie/CangjieSDK-Win-Beta) （通过申请后可见）
++ [仓颉 Windows Dev 版本下载链接，版本更新时间：2024-11-15](https://gitcode.com/Cangjie/CangjieSDK-Win-Beta) （通过申请后可见）
 
-+ [仓颉 Mac Dev 版本下载链接，版本更新时间：2024-10-23](https://gitcode.com/Cangjie/CangjieSDK-Darwin) （通过申请后可见）
++ [仓颉 Mac Dev 版本下载链接，版本更新时间：2024-11-15](https://gitcode.com/Cangjie/CangjieSDK-Darwin) （通过申请后可见）
 
-+ [仓颉 VScode Plugin Dev 版本下载链接，版本更新时间：2024-10-23](https://gitcode.com/Cangjie/CangjieVScodePlugin) （通过申请后可见）
++ [仓颉 VScode Plugin Dev 版本下载链接，版本更新时间：2024-11-15](https://gitcode.com/Cangjie/CangjieVScodePlugin) （通过申请后可见）
 
-+ [仓颉编程语言通用版本Dev Channel官方文档下载链接，版本更新时间：2024-10-23](https://gitcode.com/Cangjie/CangjieDocs/overview) （通过申请后可见）
++ [仓颉编程语言通用版本Dev Channel官方文档下载链接，版本更新时间：2024-11-15](https://gitcode.com/Cangjie/CangjieDocs/overview) （通过申请后可见）
 
 # 官方文档
 
