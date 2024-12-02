@@ -90,7 +90,7 @@
 
 # 社区活动
 
-月度活动 - Workshop  [往期回顾，最近更新：2024年9月（第25期）](https://gitcode.com/Cangjie/CangjieCommunity/blob/main/Workshop/workshop.md)
+月度活动 - Workshop  [往期回顾，最近更新：2024年11月（第27期）](https://gitcode.com/Cangjie/CangjieCommunity/blob/main/Workshop/workshop.md)
 
 
 # 学习资料
