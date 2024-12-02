@@ -4,9 +4,18 @@
 
 **仓颉编程语言作为一款面向全场景应用开发的现代编程语言**，通过现代语言特性的集成、全方位的编译优化和运行时实现、以及开箱即用的 IDE 工具链支持，为开发者打造友好开发体验和卓越程序性能。
 
+# 官方网站
+**[中文官网地址](https://cangjie-lang.cn/)**
+
+**[英文官网地址](https://cangjie-lang.cn/en)**
+
+**[HarmonyOS Developer 仓颉主页地址（2024年6月21日已公开）](https://developer.huawei.com/consumer/cn/cangjie/)**
+
 # 试用指南
 
 [**一篇文章带你了解仓颉所有开发套件获取及安装**](Guide.md)
+
+[Cangjie-TPC开源三方库资源汇总](https://gitcode.com/Cangjie-TPC/TPC-Resource/overview)
 
 [参与Cangjie-TPC三方库建设：如何贡献](https://gitcode.com/Cangjie-TPC/TPC-Resource/blob/main/HowToContribute.md)
 
@@ -16,23 +25,25 @@
 
 [HarmonyOS NEXT 仓颉语言开发者预览版申请链接](https://developer.huawei.com/consumer/cn/activityDetail/cangjie-beta/)
 
-[DevEco Studio NEXT Developer Beta5-Cangjie Plugin，下载链接，版本更新时间：2024-10-08](https://developer.huawei.com/consumer/cn/download/) （HarmonyOS NEXT 仓颉语言开发者预览版申请后可见）
+[DevEco Studio NEXT Developer Beta5-Cangjie Plugin，下载链接，版本更新时间：2024-10-25](https://developer.huawei.com/consumer/cn/download/) （HarmonyOS NEXT 仓颉语言开发者预览版申请后可见）
 
  <br />
 
 **仓颉编程语言通用版本(服务端等领域开发)**
 
-[仓颉通用版本申请链接](https://wj.qq.com/s2/14870499/c76f/)
+[仓颉通用版本STS Version下载链接](https://cangjie-lang.cn/download/0.53.13)
 
-[仓颉 Linux Beta 版本下载链接，版本更新时间：2024-09-11](https://gitcode.com/Cangjie/CangjieSDK-Linux-Beta) （通过申请后可见）
+[仓颉通用版本Canary Version申请链接](https://wj.qq.com/s2/14870499/c76f/)
 
-[仓颉 Windows Beta 版本下载链接，版本更新时间：2024-09-11](https://gitcode.com/Cangjie/CangjieSDK-Win-Beta) （通过申请后可见）
++ [仓颉 Linux Canary Version下载链接，版本更新时间：2024-11-15](https://gitcode.com/Cangjie/CangjieSDK-Linux-Beta) （通过申请后可见）
 
-[仓颉 Mac Beta 版本下载链接，版本更新时间：2024-09-11](https://gitcode.com/Cangjie/CangjieSDK-Darwin) （通过申请后可见）
++ [仓颉 Windows Canary Version下载链接，版本更新时间：2024-11-15](https://gitcode.com/Cangjie/CangjieSDK-Win-Beta) （通过申请后可见）
 
-[仓颉 VScode Plugin Beta 版本下载链接，版本更新时间：2024-09-12](https://gitcode.com/Cangjie/CangjieVScodePlugin) （通过申请后可见）
++ [仓颉 Mac Canary Version下载链接，版本更新时间：2024-11-15](https://gitcode.com/Cangjie/CangjieSDK-Darwin) （通过申请后可见）
 
-[仓颉编程语言通用版本官方文档下载链接，版本更新时间：2024-09-11](https://gitcode.com/Cangjie/CangjieDocs/overview) （通过申请后可见）
++ [仓颉 VScode Plugin Canary Version下载链接，版本更新时间：2024-11-15](https://gitcode.com/Cangjie/CangjieVScodePlugin) （通过申请后可见）
+
++ [仓颉编程语言通用版本Canary Version官方文档下载链接，版本更新时间：2024-11-15](https://gitcode.com/Cangjie/CangjieDocs/overview) （通过申请后可见）
 
 # 官方文档
 
@@ -46,7 +57,7 @@
 
 # 周边社区
 
-[**仓颉编程语言用户论坛（Cangjie-UsersForum）**](https://gitcode.com/Cangjie/UsersForum) （通过申请后可见，如有问题请您提交issue）
+[**仓颉编程语言用户论坛（Cangjie-UsersForum）**](https://gitcode.com/Cangjie/UsersForum) 
 
 [**仓颉编程语言三方库社区（Cangjie-TPC）**](https://gitcode.com/Cangjie-TPC)
 
@@ -79,7 +90,7 @@
 
 # 社区活动
 
-月度活动 - Workshop  [往期回顾，最近更新：2024年8月（第24期）](https://gitcode.com/Cangjie/CangjieCommunity/blob/main/Workshop/workshop.md)
+月度活动 - Workshop  [往期回顾，最近更新：2024年9月（第25期）](https://gitcode.com/Cangjie/CangjieCommunity/blob/main/Workshop/workshop.md)
 
 
 # 学习资料
