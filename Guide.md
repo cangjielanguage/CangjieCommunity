@@ -104,10 +104,20 @@ IDE下载这里不做赘述，点击[DevEco Studio-Cangjie Plugin Beta2 下载�
 
 ![配置环境](picture/17.png)
 
-### 3.4 编译运行
+### 3.4 编译运行（模拟器）
 
-手机系统镜像要求：NEXT.0.0.31及以后
-IDE模拟器已支持仓颉
+选择设备
+
+![image.png](https://raw.gitcode.com/Cangjie/CangjieCommunity/attachment/uploads/73251789-fe51-4be8-b1ea-49adcef0386a/image.png 'image.png')
+
+创建设备
+
+![image.png](https://raw.gitcode.com/Cangjie/CangjieCommunity/attachment/uploads/6433e4f6-2417-47bf-984d-f87a5e651e27/image.png 'image.png')
+
+点击编译运行
+
+![image.png](https://raw.gitcode.com/Cangjie/CangjieCommunity/attachment/uploads/fbde178c-9824-4188-a8f4-cfe573461470/image.png 'image.png')
+
 
 ### 3.5 相关资源
 
