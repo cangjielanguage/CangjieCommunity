@@ -1,66 +1,32 @@
 # 一篇文章带你了解仓颉所有开发套件获取及安装
 
+## 1 概览
+
 **仓颉编程语言通用版本(服务端等领域开发)**
 
-[仓颉通用版本申请链接](https://wj.qq.com/s2/14870499/c76f/)（申请前建议优先看注意事项）
+[仓颉官网下载链接](https://cangjie-lang.cn/download)（STS版本通道已经开放下载）
 
-[仓颉 Linux Beta 版本下载链接](https://gitcode.com/Cangjie/CangjieSDK-Linux-Beta) （通过申请后可见）
-
-[仓颉 Windows Beta 版本下载链接](https://gitcode.com/Cangjie/CangjieSDK-Win-Beta) （通过申请后可见）
-
-[仓颉 Mac Beta 版本下载链接](https://gitcode.com/Cangjie/CangjieSDK-Darwin) （通过申请后可见）
-
-[仓颉 VScode Plugin Beta 版本下载链接](https://gitcode.com/Cangjie/CangjieVScodePlugin) （通过申请后可见）
-
-[仓颉编程语言通用版本官方文档下载链接](https://gitcode.com/Cangjie/CangjieDocs/overview) （通过申请后可见）
-
-[仓颉编程语言通用版本开发者论坛](https://gitcode.com/Cangjie/UsersForum) （通过申请后可见）
+[仓颉官方文档](https://cangjie-lang.cn/docs)（STS版本通道文档已经公开）
 
 **HarmonyOS NEXT 仓颉语言开发者预览版(鸿蒙原生应用开发)**
 
-[HarmonyOS NEXT 仓颉语言开发者预览版申请链接](https://developer.huawei.com/consumer/cn/activityDetail/cangjie-beta/)（申请前建议优先看注意事项）
+[HarmonyOS NEXT 仓颉语言开发者预览版申请链接](https://developer.huawei.com/consumer/cn/activityDetail/cangjie-beta/)
 
-[DevEco Studio NEXT Developer Beta2-Cangjie Plugin 下载链接](https://developer.huawei.com/consumer/cn/download/) （HarmonyOS NEXT 仓颉语言开发者预览版申请后可见）
-
-[仓颉鸿蒙原生应用开发者论坛](https://gitcode.com/Cangjie/CangjieMoBileUsersForm) （HarmonyOS NEXT 仓颉语言开发者预览版申请后可见）
-
-## 1 注意事项
-
-### 1.1 仓颉编程语言通用版本审核不过可能原因
-
-#### 1.1.1 长时间没有收到官方回复邮件怎么办？
-
-答：可能是由于签署姓名或输入“我已阅读、充分理解并同意以上保密要求及 《仓颉编程语言通用版本SDK用户使用和保密知情同意书》”环节存在问题，也可能是由于您的邮箱无法收到我们发送的邮件，建议您重新填写！
-
-#### 1.1.2 收到邮件长时间没有加入社区怎么办？
-
-答：可能是由于您未点击申请加入社区链接（建议您点击后稍作等待1天），或您问卷中填写的的手机号与您gitcode账号绑定的手机号不一致导致（建议您重新填写或换绑手机）！
-
-### 1.2 HarmonyOS NEXT 仓颉语言开发者预览版审核不过可能原因
-
-#### 1.2.1 长时间没有收到官方回复邮件怎么办？
-
-答：可能是由于姓名以及相关信息填写不规范，建议您重新填写！
-
-#### 1.2.2 收到邮件长时间没有加入社区怎么办？
-
-答：可能是由于您未点击申请加入社区链接（建议您点击后稍作等待1天），或您招募活动中填写的的手机号与您gitcode账号绑定的手机号不一致导致（建议您重新填写或换绑手机）！
+[DevEco Studio NEXT Developer Beta2-Cangjie Plugin 下载链接](https://developer.huawei.com/consumer/cn/download/) （HarmonyOS NEXT 仓颉语言开发者预览版申请通过后可见）
 
 ## 2 仓颉编程语言通用版本开发环境搭建（以 Windows 平台为例）
 
 ### 2.1 下载 VScode 以及 仓颉语言 VScode 插件
 
-IDE下载这里不做赘述，点击[仓颉语言 VScode 插件](https://gitcode.com/Cangjie/CangjieVScodePlugin/overview)进入代码仓下载并解压缩
+IDE下载这里不做赘述，在仓颉官网中下载[仓颉VScode插件](https://cangjie-lang.cn/download)，并解压缩
 
-![下载仓颉语言 VScode 插件](picture/01.png)
+![image.png](https://raw.gitcode.com/Cangjie/CangjieCommunity/attachment/uploads/07ff8af9-4ad3-4771-88d9-309dfad7e4ea/image.png 'image.png')
 
 ### 2.2 下载仓颉编程语言通用版本SDK
 
-点击[仓颉编程语言通用版本SDK（Windows）](https://gitcode.com/Cangjie/CangjieSDK-Win-Beta)进入代码仓下载并解压缩
+在仓颉官网中下载[仓颉SDK](https://cangjie-lang.cn/download)，并解压缩
 
-![仓颉编程语言通用版本SDK](picture/02.png)
-
-建议点击后跳转页面右上角下载按钮下载，或使用`git lfs clone ...`进行下载
+![image.png](https://raw.gitcode.com/Cangjie/CangjieCommunity/attachment/uploads/2f1f48b7-737b-409e-ae35-35512a2cffba/image.png 'image.png')
 
 ### 2.3 配置环境
 
@@ -102,7 +68,7 @@ IDE下载这里不做赘述，点击[仓颉语言 VScode 插件](https://gitcode
 
 ### 3.1 下载 DevEco Studio NEXT Developer Beta2 以及 DevEco Studio NEXT Developer Beta2-Cangjie Plugin.
 
-IDE下载这里不做赘述（推荐下载DevEco Studio NEXT Developer Beta2(5.0.3.500)），点击[DevEco Studio NEXT Developer Beta2-Cangjie Plugin 下载链接](https://developer.huawei.com/consumer/cn/download/) （HarmonyOS NEXT 仓颉语言开发者预览版申请后可见）
+IDE下载这里不做赘述，点击[DevEco Studio-Cangjie Plugin Beta2 下载链接](https://developer.huawei.com/consumer/cn/download/) （HarmonyOS NEXT 仓颉语言开发者预览版申请后可见）
 
 ![配置环境](picture/10.png)
 
