@@ -48,7 +48,7 @@ IDE下载这里不做赘述，在仓颉官网中下载[仓颉VScode插件](https
 
 ![配置环境](picture/07.png)
 
-配置文件字段详细说明详见[仓颉编程语言通用版本官方文档](https://gitcode.com/Cangjie/CangjieDocs/overview) （通过申请后可见）《仓颉语言工具使用指南》-仓颉语言命令行工具使用指南-包管理工具-模块配置文件说明
+配置文件字段详细说明详见[仓颉编程语言通用版本官方文档](https://cangjie-lang.cn/docs?url=%2F0.53.13%2Ftools%2Fsource_zh_cn%2Ftools%2Fcjpm_manual_cjnative_community.html)《仓颉语言工具使用指南》-仓颉语言命令行工具使用指南-包管理工具-模块配置文件说明
 
 ![配置环境](picture/08.png)
 
