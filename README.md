@@ -21,7 +21,7 @@
 - [**示例代码**](https://gitcode.com/Cangjie/Cangjie-Examples/overview)：收集小而美的案例代码，带你在趣味实践中快速入门，也欢迎来此分享你的妙趣设计
 - [**开发者论坛**](https://gitcode.com/Cangjie/UsersForum)：讨论，咨询，Bug 与需求反馈
 
-下载安装通用版本的详细指导请参考[通用版本获取与安装配置指南](./通用版本获取与安装配置.pdf)
+下载安装通用版本的详细指导请参考[通用版本获取与安装配置指南](https://gitcode.com/Cangjie/CangjieCommunity/blob/main/%E9%80%9A%E7%94%A8%E7%89%88%E6%9C%AC%E8%8E%B7%E5%8F%96%E4%B8%8E%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE.pdf)
 
 ## 鸿蒙版本
 
@@ -33,7 +33,7 @@
 - [**示例应用**](https://gitcode.com/Cangjie/HarmonyOS-Examples/overview)：收集小而美的案例代码，带你在趣味实践中快速入门，也欢迎来此分享你的妙趣设计
 - [**开发者论坛**](https://gitcode.com/Cangjie/CangjieMoBileUsersForm)：讨论，咨询，Bug 与需求反馈
 
-下载安装鸿蒙版本的详细指导请参考[鸿蒙版本获取与安装配置指南](./鸿蒙版本获取与安装配置.pdf)
+下载安装鸿蒙版本的详细指导请参考[鸿蒙版本获取与安装配置指南](https://gitcode.com/Cangjie/CangjieCommunity/blob/main/%E9%B8%BF%E8%92%99%E7%89%88%E6%9C%AC%E8%8E%B7%E5%8F%96%E4%B8%8E%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE.pdf)
 
 ## 社区活动
 
