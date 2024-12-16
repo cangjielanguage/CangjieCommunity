@@ -37,8 +37,11 @@
 
 ## 社区活动
 
-- [**仓颉 Workshop**](https://gitcode.com/Cangjie/CangjieCommunity/blob/main/Workshop/workshop.md)：每月举办的开发者线上交流会，欢迎来这里分享和倾听关于仓颉的妙语哲思
+- [**Workshop**](https://gitcode.com/Cangjie/CangjieCommunity/blob/main/Workshop/workshop.md)：每月举办的开发者线上交流会，欢迎来这里分享和倾听关于仓颉的妙语哲思
 - [**技术分享会**](./技术分享.md)：不定期举办或参与各种技术大会，由内外部专家分享仓颉相关的语言设计、编译器实现及应用技术
+- [**开源毕设**](https://edu.chancefoundation.org.cn/actualCombatList)：开源创新教育联盟平台发布了一批仓颉开源项目课题，可以作为相关专业的毕设课题，欢迎高校师生们选题挑战（打开页面后，搜索“仓颉”筛选）
+- [**三方库招募**](https://gitcode.com/Cangjie-TPC/TPC-Resource/blob/main/TPC-LIST.md)：由 Cangjie-TPC 社区发起的优质三方库招募活动，欢迎创作和分享，为仓颉社区贡献并提升个人/组织影响力
+- **示例程序招募**：欢迎向 [Cangjie-Examples](https://gitcode.com/Cangjie/Cangjie-Examples/overview) 仓和 [HarmonyOS-Examples](https://gitcode.com/Cangjie/HarmonyOS-Examples/overview) 仓贡献妙趣的示例程序，帮助社区新人快速入门，同时展现你的高超编码水平，示例程序设计要追求生动、有趣、深刻、典型，编码与文档要规范优雅。
 
 ## 合作联系
 
