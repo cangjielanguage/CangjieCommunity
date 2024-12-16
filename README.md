@@ -48,9 +48,11 @@
 
 产业合作：仓颉生态与产业发展总监[@王学智](https://gitcode.com/wangxuezhi355) | [@朴冠羽](https://gitcode.com/seansonlight)（优先联系）
 
-学研合作：[@刘俊杰](https://gitcode.com/EastGreatSummer) | [@刘威](https://gitcode.com/liuwei503388)
+学研合作：[@刘俊杰](https://gitcode.com/EastGreatSummer) 
 
-运营合作：[@赵丹荣](https://gitcode.com/Leporide) | [@朴冠羽](https://gitcode.com/seansonlight)
+营销宣传：[@刘威](https://gitcode.com/liuwei503388)
+
+运营活动：[@赵丹荣](https://gitcode.com/Leporide) | [@朴冠羽](https://gitcode.com/seansonlight)
 
 ## 仓颉官方号
 
