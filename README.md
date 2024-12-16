@@ -17,7 +17,6 @@
   - **编译工具链**：[Linux](https://gitcode.com/Cangjie/CangjieSDK-Linux-Beta)，[Windows](https://gitcode.com/Cangjie/CangjieSDK-Win-Beta)，[Mac](https://gitcode.com/Cangjie/CangjieSDK-Darwin)
   - [**VSCode 插件**](https://gitcode.com/Cangjie/CangjieVScodePlugin)
   - [**文档**](https://gitcode.com/Cangjie/CangjieDocs/overview)
-- [**安装与配置指南**](./通用版本获取与安装配置.pdf)
 - [**示例代码**](https://gitcode.com/Cangjie/Cangjie-Examples/overview)：收集小而美的案例代码，带你在趣味实践中快速入门，也欢迎来此分享你的妙趣设计
 - [**开发者论坛**](https://gitcode.com/Cangjie/UsersForum)：讨论，咨询，Bug 与需求反馈
 
