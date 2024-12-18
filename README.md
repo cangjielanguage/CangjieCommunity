@@ -18,7 +18,7 @@
   - [**VSCode 插件**](https://gitcode.com/Cangjie/CangjieVScodePlugin)
   - [**文档**](https://gitcode.com/Cangjie/CangjieDocs/overview)
 - [**示例代码**](https://gitcode.com/Cangjie/Cangjie-Examples/overview)：收集小而美的案例代码，带你在趣味实践中快速入门，也欢迎来此分享你的妙趣设计
-- [**开发者论坛**](https://gitcode.com/Cangjie/UsersForum)：通用版本相关问题反馈平台，欢迎各位开发者在此咨询，反馈BUG 与需求。
+- [**开发者论坛**](https://gitcode.com/Cangjie/UsersForum)：通用版本相关问题反馈平台，欢迎各位开发者在此反馈 BUG、需求和改进建议等
 
 下载安装通用版本的详细指导请参考[通用版本获取与安装配置指南](https://gitcode.com/Cangjie/CangjieCommunity/blob/main/%E9%80%9A%E7%94%A8%E7%89%88%E6%9C%AC%E8%8E%B7%E5%8F%96%E4%B8%8E%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE.pdf)
 
@@ -30,7 +30,7 @@
 - [**开发指南**](https://developer.huawei.com/consumer/cn/doc/cangjie-guides-V5/cj-first-cangjie-app-V5)：学习仓颉鸿蒙开发工具链基本用法，构建第一个鸿蒙应用
 - [**API 文档**](https://developer.huawei.com/consumer/cn/doc/cangjie-references-V5/public_api_uff08_u4ed3_u9889_uff09-V5)：系统 SDK 及 UI 组件接口文档
 - [**示例应用**](https://gitcode.com/Cangjie/HarmonyOS-Examples/overview)：收集小而美的案例代码，带你在趣味实践中快速入门，也欢迎来此分享你的妙趣设计
-- [**开发者论坛**](https://gitcode.com/Cangjie/CangjieMoBileUsersForm)：鸿蒙版本相关问题反馈平台，欢迎各位开发者在此咨询，反馈BUG 与需求。
+- [**开发者论坛**](https://gitcode.com/Cangjie/CangjieMoBileUsersForm)：鸿蒙版本相关问题反馈平台，欢迎各位开发者在此反馈 BUG、需求和改进建议等
 
 下载安装鸿蒙版本的详细指导请参考[鸿蒙版本获取与安装配置指南](https://gitcode.com/Cangjie/CangjieCommunity/blob/main/%E9%B8%BF%E8%92%99%E7%89%88%E6%9C%AC%E8%8E%B7%E5%8F%96%E4%B8%8E%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE.pdf)
 
