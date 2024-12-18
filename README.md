@@ -13,7 +13,7 @@
 仓颉通用版本工具链适配三大系统平台（支持 `arm64` 与 `x86-64` 目标），可用于开发 PC 或服务器上的应用程序，目前推荐用 VSCode 及仓颉包管理工具（cjpm）辅助开发，仓颉专属 IDE 也正在开发和内测中，敬请期待。
 
 - [**稳定版本（STS）**](https://cangjie-lang.cn/download/0.53.13)：每半年发布的稳定性版本，在官网直接下载
-- **内测版本（Canary）**：每月在 GitCode 平台发布的开发者内测版本，[通过申请开通内测权限](https://wj.qq.com/s2/14870499/c76f/)后可下载：
+- **内测版本（Canary）**：每月在 GitCode 平台发布的开发者内测版本，[申请开通内测权限](https://wj.qq.com/s2/14870499/c76f/)后可下载：
   - **编译工具链**：[Linux](https://gitcode.com/Cangjie/CangjieSDK-Linux-Beta)，[Windows](https://gitcode.com/Cangjie/CangjieSDK-Win-Beta)，[Mac](https://gitcode.com/Cangjie/CangjieSDK-Darwin)
   - [**VSCode 插件**](https://gitcode.com/Cangjie/CangjieVScodePlugin)
   - [**文档**](https://gitcode.com/Cangjie/CangjieDocs/overview)
