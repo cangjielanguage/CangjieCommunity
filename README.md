@@ -1,4 +1,4 @@
-![20240620-115337_WeLinkPC_.png](https://raw.gitcode.com/Cangjie/CangjieCommunity/attachment/uploads/fdfcfdf3-8f8c-4c4f-9f58-4b5431b41a1f/20240620-115337_WeLinkPC_.png '20240620-115337_WeLinkPC_.png')
+![CF26F37C-A0A0-4AAC-9351-78BD3B4ECB89.jpg](https://raw.gitcode.com/Cangjie/CangjieCommunity/attachment/uploads/c6c1048a-6989-4611-9542-262d16eee7b7/CF26F37C-A0A0-4AAC-9351-78BD3B4ECB89.jpg 'CF26F37C-A0A0-4AAC-9351-78BD3B4ECB89.jpg')
 
 仓颉编程语言是面向全场景智能的新一代编程语言，具有原生智能化、天生全场景、高性能和强安全等特征，适用于端云各种场景下的应用程序开发，并为开发者提供良好的编程体验。
 
