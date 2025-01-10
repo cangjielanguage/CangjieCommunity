@@ -6,7 +6,7 @@
 
 - [**仓颉编程语言官网**](https://cangjie-lang.cn)：通用工具链，学习资源，在线体验，新闻资讯
 - [**鸿蒙开发者网站仓颉主页**](https://developer.huawei.com/consumer/cn/cangjie)：仓颉鸿蒙应用开发工具链，学习资源
-- [**仓颉开源三方库（Cangjie-TPC）**](https://gitcode.com/Cangjie-TPC)：优质开源三方库发布与招募
+- [**仓颉开源三方库**](https://gitcode.com/Cangjie-TPC)：综合质量获社区认证的开源三方库，欢迎试用和贡献
 - [**社区优质开源项目**](./社区优质开源项目.md)：收集和展示仓颉社区优质开源项目
 
 ## 通用版本
