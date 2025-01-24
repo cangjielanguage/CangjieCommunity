@@ -3,7 +3,7 @@
 ## 往期回顾
 |活动|活动时间|分享议题|演示文稿|视频回顾|
 |---|---|---|---|---|
-|第29期|20250124| 1️⃣《仓颉兴趣组趣味项目分享》 - 张引@东北大学<br>2️⃣《泛型特性的变化 -- 前瞻》 - 轩加振@华为<br>3️⃣《仓颉鸿蒙项目实战：仿豆包APP的UI实现》 - 徐迪@杭州电子科技大学|[PDF文稿]()|[视频链接]()|
+|第29期|20250124| 1️⃣《仓颉兴趣组趣味项目分享》 - 张引@东北大学<br>2️⃣《泛型特性的变化 -- 前瞻》 - 轩加振@华为<br>3️⃣《仓颉鸿蒙项目实战：仿豆包APP的UI实现》 - 徐迪@杭州电子科技大学|[PDF文稿](https://gitcode.com/Cangjie/CangjieCommunity/tree/main/Workshop/%E7%AC%AC29%E6%9C%9FWorkshop)|[视频链接]()|
 |第28期|20241228| 1️⃣《仓颉编程语言2024生态建设总结》 - 王学智@华为<br>2️⃣《毕方AI代码辅助工具FireCoder介绍》 - FireCoder小方@华为<br>3️⃣《GISTools仓颉库的设计和开发》 - 董昱 |[PDF文稿](https://gitcode.com/Cangjie/CangjieCommunity/tree/main/Workshop/%E7%AC%AC28%E6%9C%9FWorkshop)|[视频链接](https://www.bilibili.com/video/BV1jJCaYaEP9/)|
 |第27期|20241130| 1️⃣《基于仓颉语言的三方库CJQT介绍》- 周丽波@上海双洪<br>2️⃣《仓颉并发机制的设计与实现》- 陈冬杰@华为<br>3️⃣《仓颉版Kafka客户端示例展示与开发心得》- 蔡学文@东方通|[PDF文稿](https://gitcode.com/Cangjie/CangjieCommunity/tree/main/Workshop/%E7%AC%AC26%E6%9C%9FWorkshop)|[视频链接](https://www.bilibili.com/video/BV1x16PYFEPy/)|
 |第26期|20241031|1️⃣《仓颉编程语言官网介绍》- 朴冠羽@华为<br>2️⃣《神农为服务开发套件介绍》- 昝望@华为<br>3️⃣《仓颉语言开源微服务框架microservice开发实践分享》- 赵刚@上汽享道出行<br>4️⃣《仓颉在HarmonyOS NEXT AI大模型端侧部署的实践与创新挑战》- 邓顺子|[PDF文稿](https://gitcode.com/Cangjie/CangjieCommunity/tree/main/Workshop/%E7%AC%AC27%E6%9C%9FWorkshop)|[视频链接](https://www.bilibili.com/video/BV1FFS9Y7E7N)|
