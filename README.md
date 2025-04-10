@@ -37,7 +37,7 @@
 
 ## 社区活动
 
-- [**Workshop**](https://gitcode.com/Cangjie/CangjieCommunity/blob/main/Workshop/workshop.md)：每月举办的开发者线上交流会，欢迎来这里分享和倾听关于仓颉的妙语哲思（往期回顾已更新至[2025-02-22，第30期](https://gitcode.com/Cangjie/CangjieCommunity/tree/main/Workshop/%E7%AC%AC30%E6%9C%9FWorkshop)）
+- [**Workshop**](https://gitcode.com/Cangjie/CangjieCommunity/blob/main/Workshop/workshop.md)：每月举办的开发者线上交流会，欢迎来这里分享和倾听关于仓颉的妙语哲思（往期回顾已更新至[2025-03-27，第31期](https://gitcode.com/Cangjie/CangjieCommunity/tree/main/Workshop/%E7%AC%AC31%E6%9C%9FWorkshop)）
 - [**技术分享**](./技术分享.md)：不定期举办或参与各种技术大会，由内外部专家分享仓颉相关的语言设计、编译器实现及应用技术
 - [**开源毕设**](https://edu.chancefoundation.org.cn/actualCombatList)：开源创新教育联盟平台发布了一批仓颉开源项目课题，可以作为相关专业的毕设课题，欢迎高校师生们选题挑战（打开页面后，搜索“仓颉”筛选）
 - [**三方库招募**](https://gitcode.com/Cangjie-TPC/TPC-Resource/blob/main/TPC-LIST.md)：由 [Cangjie-TPC](https://gitcode.com/Cangjie-TPC) 社区发起的优质三方库招募活动，欢迎任意形式的[贡献行为](https://gitcode.com/Cangjie-TPC/TPC-Resource/blob/main/HowToContribute.md)，期待创作和分享，欢迎通过贡献行为提升个人/组织影响力
@@ -49,9 +49,9 @@
 
 产业合作：仓颉生态与产业发展总监[@王学智](https://gitcode.com/wangxuezhi355) | [@朴冠羽](https://gitcode.com/seansonlight)（优先联系）
 
-学研合作：[@刘俊杰](https://gitcode.com/EastGreatSummer) 
+学研合作：[@刘俊杰](https://gitcode.com/EastGreatSummer) | [@许亦然]()
 
-营销宣传：[@刘威](https://gitcode.com/liuwei503388)
+营销宣传：[@刘威](https://gitcode.com/liuwei503388) | [@王可欣]()
 
 运营活动：[@赵丹荣](https://gitcode.com/Leporide) | [@朴冠羽](https://gitcode.com/seansonlight)
 
