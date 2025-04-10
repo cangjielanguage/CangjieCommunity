@@ -29,7 +29,7 @@
 
 - [**DevEco 仓颉插件**](https://developer.huawei.com/consumer/cn/download/)：下载插件，在对应版本的 DevEco Studio 中安装，即可支持仓颉鸿蒙原生应用开发
 - [**开发指南**](https://developer.huawei.com/consumer/cn/doc/cangjie-guides-V5/cj-first-cangjie-app-V5)：学习仓颉鸿蒙开发工具链基本用法，构建第一个鸿蒙应用
-- [**API 文档**](https://developer.huawei.com/consumer/cn/doc/cangjie-references-V5/public_api_uff08_u4ed3_u9889_uff09-V5)：系统 SDK 及 UI 组件接口文档
+- [**API 文档**](https://developer.huawei.com/consumer/cn/doc/cangjie-references-V5/_u4ed3_u9889api-V5)：系统 SDK 及 UI 组件接口文档
 - [**示例应用**](https://gitcode.com/Cangjie/HarmonyOS-Examples/overview)：收集小而美的案例代码，带你在趣味实践中快速入门，也欢迎来此分享你的妙趣设计
 - [**开发者论坛**](https://gitcode.com/Cangjie/CangjieMoBileUsersForm)：鸿蒙版本相关问题反馈平台，欢迎各位开发者在此反馈 BUG、需求和改进建议等
 
@@ -37,7 +37,7 @@
 
 ## 社区活动
 
-- [**Workshop**](https://gitcode.com/Cangjie/CangjieCommunity/blob/main/Workshop/workshop.md)：每月举办的开发者线上交流会，欢迎来这里分享和倾听关于仓颉的妙语哲思（往期回顾已更新至[2024-12-28，第28期](https://gitcode.com/Cangjie/CangjieCommunity/tree/main/Workshop/%E7%AC%AC27%E6%9C%9FWorkshop)）
+- [**Workshop**](https://gitcode.com/Cangjie/CangjieCommunity/blob/main/Workshop/workshop.md)：每月举办的开发者线上交流会，欢迎来这里分享和倾听关于仓颉的妙语哲思（往期回顾已更新至[2025-02-22，第30期](https://gitcode.com/Cangjie/CangjieCommunity/tree/main/Workshop/%E7%AC%AC30%E6%9C%9FWorkshop)）
 - [**技术分享**](./技术分享.md)：不定期举办或参与各种技术大会，由内外部专家分享仓颉相关的语言设计、编译器实现及应用技术
 - [**开源毕设**](https://edu.chancefoundation.org.cn/actualCombatList)：开源创新教育联盟平台发布了一批仓颉开源项目课题，可以作为相关专业的毕设课题，欢迎高校师生们选题挑战（打开页面后，搜索“仓颉”筛选）
 - [**三方库招募**](https://gitcode.com/Cangjie-TPC/TPC-Resource/blob/main/TPC-LIST.md)：由 [Cangjie-TPC](https://gitcode.com/Cangjie-TPC) 社区发起的优质三方库招募活动，欢迎任意形式的[贡献行为](https://gitcode.com/Cangjie-TPC/TPC-Resource/blob/main/HowToContribute.md)，期待创作和分享，欢迎通过贡献行为提升个人/组织影响力
