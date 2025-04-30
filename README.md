@@ -16,6 +16,7 @@
 - [**稳定版本（STS）**](https://cangjie-lang.cn/download/0.53.18)：每半年发布的稳定性版本，在官网直接下载
 - **内测版本（Canary）**：每月在 GitCode 平台发布的开发者内测版本，[申请开通内测权限](https://wj.qq.com/s2/14870499/c76f/)后可下载：
   - **编译工具链**：[Linux](https://gitcode.com/Cangjie/CangjieSDK-Linux-Beta)，[Windows](https://gitcode.com/Cangjie/CangjieSDK-Win-Beta)，[Mac](https://gitcode.com/Cangjie/CangjieSDK-Darwin)
+  - [**STDX**](https://gitcode.com/Cangjie/Cangjie-STDX)：提供了网络、安全等领域的通用能力
   - [**VSCode 插件**](https://gitcode.com/Cangjie/CangjieVScodePlugin)
   - [**文档**](https://gitcode.com/Cangjie/CangjieDocs/overview)
 - [**示例代码**](https://gitcode.com/Cangjie/Cangjie-Examples/overview)：收集小而美的案例代码，带你在趣味实践中快速入门，也欢迎来此分享你的妙趣设计
@@ -37,7 +38,7 @@
 
 ## 社区活动
 
-- [**Workshop**](https://gitcode.com/Cangjie/CangjieCommunity/blob/main/Workshop/workshop.md)：每月举办的开发者线上交流会，欢迎来这里分享和倾听关于仓颉的妙语哲思（往期回顾已更新至[2025-03-27，第31期](https://gitcode.com/Cangjie/CangjieCommunity/tree/main/Workshop/%E7%AC%AC31%E6%9C%9FWorkshop)）
+- [**Workshop**](https://gitcode.com/Cangjie/CangjieCommunity/blob/main/Workshop/workshop.md)：每月举办的开发者线上交流会，欢迎来这里分享和倾听关于仓颉的妙语哲思（往期回顾已更新至[2025-04-29，第32期](https://gitcode.com/Cangjie/CangjieCommunity/tree/main/Workshop/%E7%AC%AC32%E6%9C%9FWorkshop)）
 - [**技术分享**](./技术分享.md)：不定期举办或参与各种技术大会，由内外部专家分享仓颉相关的语言设计、编译器实现及应用技术
 - [**开源毕设**](https://edu.chancefoundation.org.cn/actualCombatList)：开源创新教育联盟平台发布了一批仓颉开源项目课题，可以作为相关专业的毕设课题，欢迎高校师生们选题挑战（打开页面后，搜索“仓颉”筛选）
 - [**三方库招募**](https://gitcode.com/Cangjie-TPC/TPC-Resource/blob/main/TPC-LIST.md)：由 [Cangjie-TPC](https://gitcode.com/Cangjie-TPC) 社区发起的优质三方库招募活动，欢迎任意形式的[贡献行为](https://gitcode.com/Cangjie-TPC/TPC-Resource/blob/main/HowToContribute.md)，期待创作和分享，欢迎通过贡献行为提升个人/组织影响力
