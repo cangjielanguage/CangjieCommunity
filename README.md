@@ -26,7 +26,7 @@
 
 ## 鸿蒙版本
 
-仓颉鸿蒙版本工具链，用于开发鸿蒙原生应用，目前处于内测（Beta 招募）阶段，欢迎您试用，[申请开通内测权限](https://developer.huawei.com/consumer/cn/activityDetail/cangjie-beta/)后，可以访问如下资源：
+仓颉鸿蒙版本工具链，用于开发鸿蒙原生应用，目前处于内测及试点商用阶段，欢迎您试用，[申请开通内测权限](https://developer.huawei.com/consumer/cn/activityDetail/cangjie-beta/)后，可以访问如下资源：
 
 - [**DevEco 仓颉插件**](https://developer.huawei.com/consumer/cn/download/)：下载插件，在对应版本的 DevEco Studio 中安装，即可支持仓颉鸿蒙原生应用开发
 - [**开发指南**](https://developer.huawei.com/consumer/cn/doc/cangjie-guides-V5/cj-first-cangjie-app-V5)：学习仓颉鸿蒙开发工具链基本用法，构建第一个鸿蒙应用
