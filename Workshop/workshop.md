@@ -3,7 +3,7 @@
 ## 往期回顾
 |活动|活动时间|分享议题|演示文稿|视频回顾|
 |---|---|---|---|---|
-|第32期|20250327| 1️⃣《仓颉兴趣组项目分享》 - 孟世博@东北大学<br>2️⃣《仓颉25年版本和特性规划》 - 刘军@华为|[PDF文稿](https://gitcode.com/Cangjie/CangjieCommunity/tree/main/Workshop/%E7%AC%AC32%E6%9C%9FWorkshop)|[视频链接](https://www.bilibili.com/video/BV199GSzkEuT/)|
+|第32期|20250429| 1️⃣《仓颉兴趣组项目分享》 - 孟世博@东北大学<br>2️⃣《仓颉25年版本和特性规划》 - 刘军@华为|[PDF文稿](https://gitcode.com/Cangjie/CangjieCommunity/tree/main/Workshop/%E7%AC%AC32%E6%9C%9FWorkshop)|[视频链接](https://www.bilibili.com/video/BV199GSzkEuT/)|
 |第31期|20250327| 1️⃣《CangjieMagic介绍》 - 陈冬杰@华为<br>2️⃣《基于HTTP的新闻应用（仓颉）》 - 吴丽春@深圳职业技术大学|[PDF文稿](https://gitcode.com/Cangjie/CangjieCommunity/tree/main/Workshop/%E7%AC%AC31%E6%9C%9FWorkshop)|[视频链接](https://www.bilibili.com/video/BV1aQoQYEEDm/)|
 |第30期|20250222| 1️⃣《Java2CJ代码转换工具介绍》 - 郭老师@华为<br>2️⃣《鸿蒙应用三方库Lottie的设计与实现》 - 李老师@三方库工程师<br>3️⃣《开发者空间介绍及仓颉编程语言开发》 - 郭老师@华为云DTSE布道师|[PDF文稿](https://gitcode.com/Cangjie/CangjieCommunity/tree/main/Workshop/%E7%AC%AC30%E6%9C%9FWorkshop)|[视频链接](https://www.bilibili.com/video/BV1XgPhe3ESX/)|
 |第29期|20250124| 1️⃣《仓颉兴趣组趣味项目分享》 - 张引@东北大学<br>2️⃣《泛型特性的变化 -- 前瞻》 - 轩加振@华为<br>3️⃣《仓颉鸿蒙项目实战：仿豆包APP的UI实现》 - 徐迪@杭州电子科技大学|[PDF文稿](https://gitcode.com/Cangjie/CangjieCommunity/tree/main/Workshop/%E7%AC%AC29%E6%9C%9FWorkshop)|[视频链接](https://www.bilibili.com/video/BV17CfnY3ETs/)|
