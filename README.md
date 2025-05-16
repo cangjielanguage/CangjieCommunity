@@ -48,7 +48,7 @@
 
 官方邮箱：cangjie@huawei.com
 
-产业合作：仓颉生态与产业发展总监[@王学智](https://gitcode.com/wangxuezhi355) | [@朴冠羽](https://gitcode.com/seansonlight)（优先联系）
+产业合作：仓颉生态与产业发展总监[@王学智](https://gitcode.com/wangxuezhi355) | [@朴冠羽](https://gitcode.com/seansonlight) | [@徐天宇](https://gitcode.com/xutianyu)
 
 学研合作：[@刘俊杰](https://gitcode.com/EastGreatSummer) | [@许亦然]()
 
