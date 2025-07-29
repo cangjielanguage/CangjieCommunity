@@ -26,7 +26,7 @@
     ```
 
 2.  **复制远程仓库到本地**
-    1.  **切换到本地路径**\*
+    1.  **切换到本地路径**
 
         ```
         mkdir -p ${your_working_dir}
@@ -34,10 +34,11 @@
         ```
 
     2.  **复制远程仓库到本地**
-        -   您可以在仓库页面内复制远程仓库的拷贝地址，得到$remote\_link：
+        -   您可以在仓库页面内复制远程仓库的拷贝地址，得到`$remote\_link`：
 
-            **图 1**  复制远程仓库<a name="fig1772512534014"></a>  
-            ![](figures/复制远程仓库.png "复制远程仓库")
+            **图 1**  复制远程仓库
+            
+            ![image.png](https://raw.gitcode.com/user-images/assets/3162607/83364454-06ef-4f0c-a991-45855679528c/image.png 'image.png')
 
         -   在本地电脑执行拷贝命令：
 
@@ -86,7 +87,7 @@
 
 ## 创建Pull Request<a name="section28261522124316"></a>
 
-访问您在上的fork仓页面，点击创建Pull Request按钮选择myfeature分支生成PR。
+访问您的fork仓页面，点击创建Pull Request按钮选择myfeature分支生成PR。
 
 详细操作请参考GitCode帮助中心的开发协作指导：[https://docs.gitcode.com/docs/help/home/org_project/pullrequests/pr-create](https://docs.gitcode.com/docs/help/home/org_project/pullrequests/pr-create)
 
