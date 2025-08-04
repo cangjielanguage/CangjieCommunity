@@ -13,8 +13,7 @@ xxx组件的更新：xx漏洞更新
 组件xxx中存在一个xxx漏洞，xxx
 
 ### 受影响的产品
-- Cangjie x.y.z版本
-- Cangjie x.y.z版本
+- Cangjie x.y.z版本 - ABC模块 （如 CangjieRuntime、CangjieTools、CangjieCompiler、CangjieStdx）
 
 ### 补丁
 - [xxx漏洞补丁](https://xxx)
