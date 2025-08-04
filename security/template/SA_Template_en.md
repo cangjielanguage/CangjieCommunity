@@ -13,7 +13,7 @@ xxx
 xxx
 
 ### Versions affected
--  < Cangjie x.y.z
+-  < Cangjie x.y.z - ABC module （e.g. CangjieRuntime、CangjieTools、CangjieCompiler、CangjieStdx）
 
 ### Reported by
 -xx
