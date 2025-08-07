@@ -201,7 +201,7 @@
 	    <td>zxudong</td>
 	</tr>
     <tr >
-	    <td>amyMayun</td>
+	    <td>amy_mayun</td>
 	</tr>
     <tr >
 	    <td>xuanjz</td>
