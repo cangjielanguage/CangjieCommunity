@@ -72,10 +72,21 @@
 
    ```
    git add .
-   git commit -sm  "xxxxxx"  // 提交信息包含signoff邮箱
+   git commit -sm  "feat: xxx"  // 提交信息包含signoff邮箱
    ```
-
    您可能会在前次提交的基础上，继续编辑构建并测试更多内容，可以使用commit --amend继续添加提交。
+   提交信息采用 [Conventional Commits（约定式提交规范）](https://www.conventionalcommits.org/zh-hans/v1.0.0/)，一个复杂点的 commit 格式参考如下：
+   ```
+   feat: add some new features
+
+   Add xx feature for xxx, it can xxxx.
+
+   Add xx feature for xxx, it can xxxx.
+
+   Refs: #12
+   ```
+   
+   更多 commit 风格信息参考[Conventional Commits（约定式提交规范）](https://www.conventionalcommits.org/zh-hans/v1.0.0/)。
 
 3.  **将变更推送到您的远端目录**
 
