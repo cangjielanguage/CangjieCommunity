@@ -96,40 +96,78 @@
     git push -f origin myfeature
     ```
 
-## 创建Pull Request<a name="section28261522124316"></a>
+## Pull Request与门禁操作<a name="section28261522124316"></a>
 
-访问您的fork仓页面，点击创建Pull Request按钮选择myfeature分支生成PR。
+### 完整流程概览
 
-详细操作请参考GitCode帮助中心的开发协作指导：[https://docs.gitcode.com/docs/help/home/org_project/pullrequests/pr-create](https://docs.gitcode.com/docs/help/home/org_project/pullrequests/pr-create)
+<img src="image/贡献总览.png" alt="贡献总览" style="zoom:75%;" />
 
+### 关键步骤说明
 
-## 门禁构建<a name="section981124754415"></a>
+1. **基础准备**
 
-### 创建Issue<a name="section979820334458"></a>
+- Fork 目标仓库，拉取至本地。
+- 基于仓库dev分支开发，代码修改完成后提交到 Fork 仓。
+- 仓库列表：
+    - https://gitcode.com/Cangjie/cangjie_compiler    # 仓颉编译器仓库
+    - https://gitcode.com/Cangjie/cangjie_runtime     # 仓颉运行时仓库
+    - https://gitcode.com/Cangjie/cangjie_tools       # 仓颉工具链仓库
+    - https://gitcode.com/Cangjie/cangjie_stdx        # 仓颉标准库仓库
+    - https://gitcode.com/Cangjie/llvm-project        # LLVM项目仓库（仓颉依赖）
+    - https://gitcode.com/Cangjie/cangjie_test        # 仓颉测试用例仓库
+    - https://gitcode.com/Cangjie/cangjie_test_framework  # 仓颉测试框架仓库
 
-1.  找到并打开对应Repository的首页
-2.  选择左上角的Issues页签，点击右侧新建Issue按钮，按照指引建立一个专属的任务，用于相关联的代码（开发特性/修改bug）执行CI门禁。
+2. **Issue与PR创建**
 
-### 将Issue与PR关联<a name="section5470144853615"></a>
+- 创建 Issue：任意仓库即可
 
-创建PR或编辑已有的PR时，描述框输入\#+I+五位Issue ID，即可将Issue与PR关联。
+- 创建 PR：
+    - 单仓修改：从个人仓库分支向目标仓库dev分支创建 PR。
+    - 多仓修改：为涉及的每个仓库分别创建 PR。
+    
+- 可在下方看到系统回复提示：
 
-**约束：**
+    <img src="image/create_pr.png" alt="create_pr" style="zoom:50%;" />
 
--   需要达到最低评审人数。
--   评审问题全部解决才能合入。
--   禁止合入自己创建的 Pull Request。
--   合并 PR 前需确保关联的流水线任务成功运行并通过检查。
+3. **PR关联操作**
 
-### 触发代码门禁<a name="section11163175420406"></a>
+- 在 Issue 选择并关联 PR。
 
-门禁执行完成，会在该Issue关联的所有PR中自动评论门禁执行结果。
+- 多仓修改时，多个仓的所有 PR 需关联同一个 Issue（请避免同一个仓的多个 PR 关联至同一个 Issue）。
 
+  <img src="image/relate_pr.png" alt="relate_pr" style="zoom:80%;" />
 
-## CI门户<a name="section8563257123985"></a>
+4. **门禁触发**
 
-Cangjie通过持续集成（CI，Continuous Integration）及时发现代码问题，确保代码质量可靠和功能稳定，包括：
+- 门禁类型判定：
+    - 多仓联合门禁：关联同一个 Issue 的 PR 会联合构建，如cangjie_compiler、cangjie_runtime、cangjie_test三个仓的三个 PR 关联了同一个 Issue，那么在运行门禁时，它们会进行联合构建和测试。
+    
+- 触发方式：在任意关联 PR 的评论区回复指令：
+    - （推荐）回复 "**start build**"：执行 Cangjie 的主要基础检查，包含测试、构建等
+    
+    - （内测中）回复 "**start full build**"：启动更全面的检查，耗时更长
+    
+      <img src="image/start_build.png" alt="start_build" style="zoom:75%;" />
+    
+- 多仓触发规则：
+    - 多个仓库仅需在**任意 1 个**关联 **PR** 中**回复 1 次指令**，结果将会同步至所有关联 PR，结果见 PR 内回复提示
+    
+    - （注意：若其他仓的 PR 流水线状态为未通过，可按照回复提示在 PR 内留言："**sync ci status**"，即可通过 PR 的流水线检查）
+    
+    - 创建 PR、更新代码、重新打开 PR，系统**不会**自动触发门禁，需要重新回复触发 CI 门禁。
+    
+      <img src="image/sync_build.png" alt="sync_build" style="zoom:75%;" />
+    
+- 门禁内容：
+    - Codecheck
+    - Commitlint格式检查
+    - linux/windows/mac平台的构建和HLT、LLT测试。
 
-- 代码门禁：开发者向Cangjie提交代码合入申请后，会触发门禁检查，例如静态检查、代码编译、功能测试等，门禁通过后才能合入代码。
-- 每日构建：Cangjie的持续集成流水线每日自动执行，以便提前发现代码静态检查、编译、功能等方面的问题，及时修复问题，确保代码质量。
+5. **PR 合入条件**
+- 所有关联 PR 的门禁检查结果为 “成功”。
+- 满足最低评审人数要求，且评审意见已解决。
+- 由他人合入 PR，不可自行合入自己创建的 PR。
 
+​	<img src="image/pr_success.png" alt="pr_success" style="zoom:75%;" />
+
+<img src="image/build_job.png" alt="build_job"/>
