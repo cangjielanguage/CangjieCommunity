@@ -2,13 +2,6 @@
 
 仓颉编程语言是面向全场景智能的新一代编程语言，具有原生智能化、天生全场景、高性能和强安全等特征，适用于端云各种场景下的应用程序开发，并为开发者提供良好的编程体验。
 
-## 资源平台
-
-- [**仓颉编程语言官网**](https://cangjie-lang.cn)：通用工具链，学习资源，在线体验，新闻资讯
-- [**鸿蒙开发者网站仓颉主页**](https://developer.huawei.com/consumer/cn/cangjie)：仓颉鸿蒙应用开发工具链，学习资源
-- [**仓颉开源三方库**](https://gitcode.com/Cangjie-TPC)：综合质量获社区认证的开源三方库，欢迎试用和贡献
-- [**社区优质开源项目**](./社区优质开源项目.md)：收集和展示仓颉社区优质开源项目
-
 ## 源码仓
 仓颉编程语言已开源编译器、运行时和标准库，同时提供SDK集成构建指导书、测试用例和测试框架，帮助开发者自主编译构建SDK。欢迎各位开发者参与仓颉社区建设，点击了解[如何贡献](https://gitcode.com/Cangjie/CangjieCommunity/blob/main/contribute/contribution.md)。
 - [**cangjie_compiler**](https://gitcode.com/Cangjie/cangjie_compiler )：仓颉编译器源码及 cjdb 调试工具。
@@ -22,6 +15,13 @@
 - [**llvm-project**](https://gitcode.com/Cangjie/llvm-project)：LLVM 项目是一个模块化、可复用的编译器及工具链技术的集合。此fork用于添加仓颉编译器的功能，并支持仓颉编译器项目。
 - [**cangjie_test**](https://gitcode.com/Cangjie/cangjie_test)：仓颉编程语言测试用例。
 - [**cangjie_test_framework**](https://gitcode.com/Cangjie/cangjie_test_framework)：方舟编译器测试框架fork，用于仓颉编程语言测试用例的自动化执行。
+
+## 资源平台
+
+- [**仓颉编程语言官网**](https://cangjie-lang.cn)：通用工具链，学习资源，在线体验，新闻资讯
+- [**鸿蒙开发者网站仓颉主页**](https://developer.huawei.com/consumer/cn/cangjie)：仓颉鸿蒙应用开发工具链，学习资源
+- [**仓颉开源三方库**](https://gitcode.com/Cangjie-TPC)：综合质量获社区认证的开源三方库，欢迎试用和贡献
+- [**社区优质开源项目**](./社区优质开源项目.md)：收集和展示仓颉社区优质开源项目
 
 
 
