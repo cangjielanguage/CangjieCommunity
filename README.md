@@ -30,7 +30,7 @@
 仓颉通用版本工具链适配三大系统平台（支持 `arm64` 与 `x86-64` 目标），可用于开发 PC 或服务器上的应用程序，目前推荐用 VSCode 及仓颉包管理工具（cjpm）辅助开发，仓颉专属 IDE 也正在开发和内测中，敬请期待。
 
 - **仓颉通用版本当前提供LTS与STS版本**，版本公告请查看[仓颉社区版本生命周期管理规范](https://gitcode.com/org/Cangjie/discussions/129)
-	- [**长期稳定版本（LTS）**](https://cangjie-lang.cn/download/1.0.0)：仓颉语言长期稳定版本，在官网直接下载
+	- [**长期稳定版本（LTS）**](https://cangjie-lang.cn/download/1.0.4)：仓颉语言长期稳定版本，在官网直接下载
 	- [**稳定版本（STS）**](https://cangjie-lang.cn/download/0.53.18)：每半年发布的较稳定版本，在官网直接下载
 - [**示例代码**](https://gitcode.com/Cangjie/Cangjie-Examples/overview)：收集小而美的案例代码，带你在趣味实践中快速入门，也欢迎来此分享你的妙趣设计
 - [**开发者论坛**](https://gitcode.com/Cangjie/UsersForum)：通用版本相关问题反馈平台，欢迎各位开发者在此反馈 BUG、需求和改进建议等
@@ -43,7 +43,7 @@
 
 - [**DevEco 仓颉插件**](https://developer.huawei.com/consumer/cn/download/)：下载插件，在对应版本的 DevEco Studio 中安装，即可支持仓颉鸿蒙原生应用开发
 - [**开发指南**](https://developer.huawei.com/consumer/cn/doc/cangjie-guides-V5/cj-first-cangjie-app-V5)：学习仓颉鸿蒙开发工具链基本用法，构建第一个鸿蒙应用
-- [**API 文档**](https://developer.huawei.com/consumer/cn/doc/cangjie-references-V5/_u4ed3_u9889api-V5)：系统 SDK 及 UI 组件接口文档
+- [**API 文档**](https://developer.huawei.com/consumer/cn/doc/cangjie-references-V5/1__u4ed3_u9889api-V5)：系统 SDK 及 UI 组件接口文档
 - [**示例应用**](https://gitcode.com/Cangjie/HarmonyOS-Examples/overview)：收集小而美的案例代码，带你在趣味实践中快速入门，也欢迎来此分享你的妙趣设计
 - [**开发者论坛**](https://gitcode.com/Cangjie/CangjieMoBileUsersForm)：鸿蒙版本相关问题反馈平台，欢迎各位开发者在此反馈 BUG、需求和改进建议等
 
