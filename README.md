@@ -9,8 +9,8 @@
 	- [仓颉运行时](https://gitcode.com/Cangjie/cangjie_runtime/tree/main/runtime)
     - [仓颉标准库（含API手册）](https://gitcode.com/Cangjie/cangjie_runtime/tree/main/std)
 - [**cangjie_tools**](https://gitcode.com/Cangjie/cangjie_tools)：仓颉编程语言命令行工具，包括仓颉包管理工具、仓颉格式化工具、仓颉多语言桥接工具及仓颉语言服务。
-- [**cangjie_stdx**](https://gitcode.com/Cangjie/cangjie_stdx) ：仓颉编程语言提供了 stdx 模块，该模块提供了网络、安全等领域的通用能力。
-- [**cangjie_build**](https://gitcode.com/Cangjie/cangjie_build) :仓颉SDK集成构建指导书。
+- [**cangjie_stdx**](https://gitcode.com/Cangjie/cangjie_stdx)：仓颉编程语言提供了 stdx 模块，该模块提供了网络、安全等领域的通用能力。
+- [**cangjie_build**](https://gitcode.com/Cangjie/cangjie_build)：仓颉SDK集成构建指导书。
 - [**cangjie_doc**](https://gitcode.com/Cangjie/cangjie_docs)：仓颉编程语言开发者文档。
 - [**llvm-project**](https://gitcode.com/Cangjie/llvm-project)：LLVM 项目是一个模块化、可复用的编译器及工具链技术的集合。此fork用于添加仓颉编译器的功能，并支持仓颉编译器项目。
 - [**cangjie_test**](https://gitcode.com/Cangjie/cangjie_test)：仓颉编程语言测试用例。
