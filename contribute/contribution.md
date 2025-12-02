@@ -71,7 +71,7 @@
 2. **在本地工作目录提交变更**
 
    ```
-   git add .
+   git add xxx
    git commit -sm  "feat: xxx"  // 提交信息包含signoff邮箱
    ```
    您可能会在前次提交的基础上，继续编辑构建并测试更多内容，可以使用commit --amend继续添加提交。
@@ -117,56 +117,141 @@
     - https://gitcode.com/Cangjie/cangjie_test        # 仓颉测试用例仓库
     - https://gitcode.com/Cangjie/cangjie_test_framework  # 仓颉测试框架仓库
 
-2. **Issue与PR创建**
+2. **Issue创建**
 
-- 创建 Issue：任意仓库即可
+- 创建 Issue：在任意仓库创建 Issue 即可，请务必按照模板认真填写，必填项不要为空。
+
+3. **PR创建**
 
 - 创建 PR：
-    - 单仓修改：从个人仓库分支向目标仓库dev分支创建 PR。
+    - 单仓修改：从个人仓库分支向目标仓库 dev 分支创建 PR。
     - 多仓修改：为涉及的每个仓库分别创建 PR。
+  
+  - **重要提示**：
+    - PR 都有模板，请务必按照模板认真填写，必填项不要为空。
+    - 根据PR 模板中要求，在对应位置附上 Issue 链接可以自动关联 Issue，不需要再额外手动设置关联。
+   
+- **PR创建成功通知**：
+
+    当您成功创建 Pull Request（PR）后，系统会自动回复以下通知信息：
+
+    ```
+    PR创建成功通知 | 感谢您的贡献 🎉
     
-- 可在下方看到系统回复提示：
+    您好！系统已检测到您成功创建 Pull Request（PR），感谢您对项目的支持与参与！以下几点需要您着重关注：
+    
+    一、PR必须关联Issue ❗
+    
+    触发门禁检查的必要步骤：在PR描述框输入Issue完整链接，完成Issue关联。
+    
+    请注意，一个 Issue 不能同时关联同一 base 仓库内的多个开启状态的 PR
+    
+    二、门禁触发规则 🔧
+    
+    门禁类型判定：由Issue关联的PR所属代码仓数量决定
+    
+    关联多个代码仓PR：触发「多仓联合门禁」
+    
+    关联单个代码仓PR：触发「单仓门禁」
+    
+    启动指令与检查范围：需主动回复指令：
+    
+    回复 "start build"：执行Cangjie的主要基础检查，包含commit格式检查、静态告警分析、多平台构建、测试等
+    
+    关联同一issue的多个PR，仅需在任意一个PR里回复触发一次门禁，该PR门禁通过后，所有PR都会添加Label和测试人
+    
+    每个pr只能同时运行一条CI流水线，如需重新启动，请先关闭运行中的，再评论触发门禁
+    
+    Markdown修改仅触发文档类构建测试门禁，不会触发Cangjie的编译测试门禁
+    
+    commit 信息格式请遵循：Conventional Commits 规范
+    
+    请保证每一条 commit 都已添加 Signed-Off-By 信息
+    
+    三、合入条件 ⚠️
+    
+    满足最低评审人数，且评审问题需全部解决；
+    
+    禁止合入本人创建的PR，需由其他协作者操作；
+    
+    合并前确保关联流水线任务运行成功（build-test-passed）。
+    
+    四、合并PR ✅
+    
+    回复 "start merge"，CI流水线会自动检查所有关联PR的状态，若所有PR都满足合并条件，则将会同时合并所有PR。若存在不满足合并条件的PR，则不会合并任何PR。
+    
+    五、补充说明 📢
+    
+    详细仓颉贡献流程：贡献流程(Cangjie Community Contribution)
+    
+    门禁结果将自动评论至关联的所有PR，敬请留意。
+    ```
 
-    <img src="image/create_pr.png" alt="create_pr" style="zoom:50%;" />
+4. **PR关联操作**
 
-3. **PR关联操作**
-
-- 在 Issue 选择并关联 PR。
-
-- 多仓修改时，多个仓的所有 PR 需关联同一个 Issue（请避免同一个仓的多个 PR 关联至同一个 Issue）。
+- **关联方式**：
+    - 在 PR 描述根据模板要求输入 Issue 完整链接，完成 Issue 关联（推荐方式，可自动关联）。
+    
+- **关联规则**：
+    - 多仓修改时，多个仓的所有 PR 需关联同一个 Issue。
+    - 请注意，一个 Issue 不能同时关联同一 base 仓库内的多个开启状态的 PR。
 
   <img src="image/relate_pr.png" alt="relate_pr" style="zoom:80%;" />
 
-4. **门禁触发**
+5. **门禁触发**
 
-- 门禁类型判定：
-    - 多仓联合门禁：关联同一个 Issue 的 PR 会联合构建，如cangjie_compiler、cangjie_runtime、cangjie_test三个仓的三个 PR 关联了同一个 Issue，那么在运行门禁时，它们会进行联合构建和测试。
+- **门禁类型判定**：
+    - 由 Issue 关联的 PR 所属代码仓数量决定：
+        - 关联多个代码仓 PR：触发「多仓联合门禁」
+        - 关联单个代码仓 PR：触发「单仓门禁」
+    - 多仓联合门禁：关联同一个 Issue 的 PR 会联合构建，如 cangjie_compiler、cangjie_runtime、cangjie_test 三个仓的三个 PR 关联了同一个 Issue，那么在运行门禁时，它们会进行联合构建和测试。
     
-- 触发方式：在任意关联 PR 的评论区回复指令：
-    - （推荐）回复 "**start build**"：执行 Cangjie 的主要基础检查，包含测试、构建等
-    
-    - （内测中）回复 "**start full build**"：启动更全面的检查，耗时更长
+- **触发方式**：
+    - 在任意关联 PR 的评论区回复指令：
+        - 回复 "**start build**"：执行 Cangjie 的主要基础检查，包含 commit 格式检查、静态告警分析、多平台构建、测试等（推荐）
+        - （内测中）回复 "**start full build**"：启动更全面的检查，耗时更长
     
       <img src="image/start_build.png" alt="start_build" style="zoom:75%;" />
     
-- 多仓触发规则：
-    - 多个仓库仅需在**任意 1 个**关联 **PR** 中**回复 1 次指令**，结果将会同步至所有关联 PR，结果见 PR 内回复提示
-    
-    - （注意：若其他仓的 PR 流水线状态为未通过，可按照回复提示在 PR 内留言："**sync ci status**"，即可通过 PR 的流水线检查）
-    
+- **触发规则**：
+    - 关联同一 issue 的多个 PR，仅需在任意一个 PR 里回复触发一次门禁，该 PR 门禁通过后，所有 PR 都会添加 Label 和测试人。
+    - 每个 PR 只能同时运行一条 CI 流水线，如需重新启动，请先关闭运行中的，再评论触发门禁。
     - 创建 PR、更新代码、重新打开 PR，系统**不会**自动触发门禁，需要重新回复触发 CI 门禁。
+    - Markdown 修改仅触发文档类构建测试门禁，不会触发 Cangjie 的编译测试门禁。
     
       <img src="image/sync_build.png" alt="sync_build" style="zoom:75%;" />
     
-- 门禁内容：
-    - Codecheck
-    - Commitlint格式检查
-    - linux/windows/mac平台的构建和HLT、LLT测试。
+- **门禁检查内容**：
+    - Commit 格式检查（需遵循 Conventional Commits 规范）
+    - 静态告警分析（Codecheck）
+    - Linux/Windows/Mac 平台的构建和 HLT、LLT 测试
+    - 请保证每一条 commit 都已添加 Signed-Off-By 信息
 
-5. **PR 合入条件**
-- 所有关联 PR 的门禁检查结果为 “成功”。
-- 满足最低评审人数要求，且评审意见已解决。
-- 由他人合入 PR，不可自行合入自己创建的 PR。
+6. **PR检视**
+
+- **检视要求**：
+    - 满足最低评审人数要求，2个评审人，1个审查人以及必要的 codeowners 成员，codeowners成员和审查人设置为合并计数：如果 codeowners 中有 commtter 成员，则该成员通过后无需额外的审查人。
+    - 评审问题需全部解决，评审问题无特殊情况外需要评论作者自行确认后解决，请勿代他人解决。
+    - Committer 检视时除业务逻辑外必须关注以下内容：
+        - PR 内容是否符合要求
+        - Issue 内容是否完整
+        - Commit log 内容是否规范
+        - Commit 拆分是否合理
+        - 版权信息是否符合要求
+
+以上内容不符合要求时，不应该给予通过。为了检视效率，代码检视时建议优先选择 codeowner 成员，参考仓库中 .gitcode 文件夹下 CODEOWNERS 文件，其次优先同模块和本领域 committer 进行检视。
+
+7. **PR合入**
+
+- **合入条件**：
+    - 所有关联 PR 的门禁检查结果为 "成功"（build-test-passed）。
+    - 满足最低评审人数要求，且评审问题需全部解决。
+    - 禁止合入本人创建的 PR，需由其他协作者操作。
+
+- **合入方式**：
+    - 回复 "**start merge**"，CI 流水线会自动检查所有关联 PR 的状态。
+    - 若所有 PR 都满足合并条件，则将会同时合并所有 PR。
+    - 若存在不满足合并条件的 PR，则不会合并任何 PR，并回复不满足条件的 PR。
 
 ​	<img src="image/pr_success.png" alt="pr_success" style="zoom:75%;" />
 
