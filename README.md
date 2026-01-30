@@ -7,7 +7,7 @@
 - [**cangjie_compiler**](https://gitcode.com/Cangjie/cangjie_compiler )：仓颉编译器源码及 cjdb 调试工具。
 - [**cangjie_runtime**](https://gitcode.com/Cangjie/cangjie_runtime)：仓颉编程语言运行时与标准库。
 	- [仓颉运行时](https://gitcode.com/Cangjie/cangjie_runtime/tree/main/runtime)
-    - [仓颉标准库（含API手册）](https://gitcode.com/Cangjie/cangjie_runtime/tree/main/std)
+    - [仓颉标准库（含API手册）](https://gitcode.com/Cangjie/cangjie_runtime/tree/main/stdlib)
 - [**cangjie_tools**](https://gitcode.com/Cangjie/cangjie_tools)：仓颉编程语言命令行工具，包括仓颉包管理工具、仓颉格式化工具、仓颉多语言桥接工具及仓颉语言服务。
 - [**cangjie_stdx**](https://gitcode.com/Cangjie/cangjie_stdx)：仓颉编程语言提供了 stdx 模块，该模块提供了网络、安全等领域的通用能力。
 - [**cangjie_build**](https://gitcode.com/Cangjie/cangjie_build)：仓颉SDK集成构建指导书。
