@@ -19,6 +19,7 @@
 ## 资源平台
 
 - [**仓颉编程语言官网**](https://cangjie-lang.cn)：通用工具链，学习资源，在线体验，新闻资讯
+- [**仓颉中心仓**](https://pkg.cangjie-lang.cn/)：仓颉语言的三方库托管平台，提供源码三方库制品包的发布、展示、发现、依赖解析等功能
 - [**鸿蒙开发者网站仓颉主页**](https://developer.huawei.com/consumer/cn/cangjie)：仓颉鸿蒙应用开发工具链，学习资源
 - [**仓颉开源三方库**](https://gitcode.com/Cangjie-TPC)：综合质量获社区认证的开源三方库，欢迎试用和贡献
 - [**社区优质开源项目**](./社区优质开源项目.md)：收集和展示仓颉社区优质开源项目
@@ -29,9 +30,10 @@
 
 仓颉通用版本工具链适配三大系统平台（支持 `arm64` 与 `x86-64` 目标），可用于开发 PC 或服务器上的应用程序，目前推荐用 VSCode 及仓颉包管理工具（cjpm）辅助开发，仓颉专属 IDE 也正在开发和内测中，敬请期待。
 
-- **仓颉通用版本当前提供LTS与STS版本**，版本公告请查看[仓颉社区版本生命周期管理规范](https://gitcode.com/org/Cangjie/discussions/129)
-	- [**长期稳定版本（LTS）**](https://cangjie-lang.cn/download/1.0.4)：仓颉语言长期稳定版本，在官网直接下载
+- **仓颉通用版本当前提供LTS、STS与Nightly Builds版本**，版本公告请查看[仓颉社区版本生命周期管理规范](https://gitcode.com/org/Cangjie/discussions/129)
+	- [**长期稳定版本（LTS）**](https://cangjie-lang.cn/download/1.0.5)：仓颉语言长期稳定版本，在官网直接下载
 	- [**稳定版本（STS）**](https://cangjie-lang.cn/download/0.53.18)：每半年发布的较稳定版本，在官网直接下载
+    - [**Nightly Builds**](https://gitcode.com/Cangjie/nightly_build/releases)：每日发布的新特性版本，在源码仓中直接下载
 - [**示例代码**](https://gitcode.com/Cangjie/Cangjie-Examples/overview)：收集小而美的案例代码，带你在趣味实践中快速入门，也欢迎来此分享你的妙趣设计
 - [**开发者论坛**](https://gitcode.com/Cangjie/UsersForum)：通用版本相关问题反馈平台，欢迎各位开发者在此反馈 BUG、需求和改进建议等
 
