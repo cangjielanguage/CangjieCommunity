@@ -3,7 +3,7 @@
 仓颉编程语言是面向全场景智能的新一代编程语言，具有原生智能化、天生全场景、高性能和强安全等特征，适用于端云各种场景下的应用程序开发，并为开发者提供良好的编程体验。
 
 ## 源码仓
-仓颉编程语言已开源编译器、运行时和标准库，同时提供SDK集成构建指导书、测试用例和测试框架，帮助开发者自主编译构建SDK。欢迎各位开发者参与仓颉社区建设，点击了解[如何贡献](https://gitcode.com/Cangjie/CangjieCommunity/blob/main/contribute/contribution.md)。
+仓颉编程语言已开源编译器、运行时和标准库，同时提供SDK集成构建指导书、测试用例和测试框架，帮助开发者自主编译构建SDK。欢迎各位开发者参与仓颉社区建设，点击了解[如何贡献](https://gitcode.com/Cangjie/community/blob/main/contribute/contribution.md)。
 - [**cangjie_compiler**](https://gitcode.com/Cangjie/cangjie_compiler )：仓颉编译器源码及 cjdb 调试工具。
 - [**cangjie_runtime**](https://gitcode.com/Cangjie/cangjie_runtime)：仓颉编程语言运行时与标准库。
 	- [仓颉运行时](https://gitcode.com/Cangjie/cangjie_runtime/tree/main/runtime)
@@ -32,7 +32,7 @@
 
 - **仓颉通用版本当前提供LTS、STS与Nightly Builds版本**，版本公告请查看[仓颉社区版本生命周期管理规范](https://gitcode.com/org/Cangjie/discussions/129)
 	- [**长期稳定版本（LTS）**](https://cangjie-lang.cn/download/1.0.5)：仓颉语言长期稳定版本，在官网直接下载
-	- [**稳定版本（STS）**](https://cangjie-lang.cn/download/0.53.18)：每半年发布的较稳定版本，在官网直接下载
+	- [**稳定版本（STS）**](https://cangjie-lang.cn/download/1.1.3)：每半年发布的较稳定版本，在官网直接下载
     - [**Nightly Builds**](https://gitcode.com/Cangjie/nightly_build/releases)：每日发布的新特性版本，在源码仓中直接下载
 - [**示例代码**](https://gitcode.com/Cangjie/Cangjie-Examples/overview)：收集小而美的案例代码，带你在趣味实践中快速入门，也欢迎来此分享你的妙趣设计
 - [**开发者论坛**](https://gitcode.com/Cangjie/UsersForum)：通用版本相关问题反馈平台，欢迎各位开发者在此反馈 BUG、需求和改进建议等
@@ -67,7 +67,7 @@
 
 学研合作：[@刘俊杰](https://gitcode.com/EastGreatSummer) | [@许亦然]()
 
-营销宣传：[@刘威](https://gitcode.com/liuwei503388) | [@王可欣]()
+营销宣传：[@王可欣]()
 
 运营活动：[@赵丹荣](https://gitcode.com/Leporide) | [@朴冠羽](https://gitcode.com/seansonlight)
 
