@@ -2,6 +2,22 @@
 
 仓颉编程语言是面向全场景智能的新一代编程语言，具有原生智能化、天生全场景、高性能和强安全等特征，适用于端云各种场景下的应用程序开发，并为开发者提供良好的编程体验。
 
+  ## 治理架构
+
+  仓颉开源社区的治理架构由 Cangjie Core
+  Team、技术指导委员会（TSC）、项目管理委员会（PMC）构成。各治理组织的章程制度、技术路标均在
+  [community](https://gitcode.com/Cangjie/community) 仓库中公开，接受社区监督。
+
+  - [**Cangjie Core Team**](https://gitcode.com/Cangjie/community/tree/main/cangjie_core_team)：仓颉项目群的最高决策组织，负责制定及修改项目群开源治理制度，决定项目群重大方向与重大业务活动计划，并审议下设各组织的工作。《仓颉项目群开源治理制度》《仓颉社区行为准则》等治理文件由其审定并公开发布。
+  - [**技术指导委员会（TSC）**](https://gitcode.com/Cangjie/community/tree/main/cangjie_tsc)：Cangjie Core Team
+  下设的技术和项目领导组织，负责讨论决策项目群技术发展方向与重大技术事项，决策项目的准入、成立和撤销，决策 PMC
+  的成立与撤销并审视、辅导其日常工作，同时通过课题揭榜等机制孵化技术创新项目。
+  - [**项目管理委员会（PMC）**](https://gitcode.com/Cangjie/community/tree/main/cangjie_pmc)：技术指导委员会下设组织
+  ，负责仓颉语言开源项目的日常管理，包括版本规划、架构看护、特性代码开发维护、需求与问题反馈处理，并负责 PMC 与 Committer 成员的选举和退出，制定版本管理、提案管理、代码仓管理等。
+
+  欢迎开发者关注社区治理动态，参与社区共建。
+
+
 ## 源码仓
 仓颉编程语言已开源编译器、运行时和标准库，同时提供SDK集成构建指导书、测试用例和测试框架，帮助开发者自主编译构建SDK。欢迎各位开发者参与仓颉社区建设，点击了解[如何贡献](https://gitcode.com/Cangjie/community/blob/main/contribute/contribution.md)。
 - [**cangjie_compiler**](https://gitcode.com/Cangjie/cangjie_compiler )：仓颉编译器源码及 cjdb 调试工具。
