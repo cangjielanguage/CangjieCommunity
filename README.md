@@ -4,9 +4,7 @@
 
   ## 治理架构
 
-  仓颉开源社区的治理架构由 Cangjie Core
-  Team、技术指导委员会（TSC）、项目管理委员会（PMC）构成。各治理组织的章程制度、技术路标均在
-  [community](https://gitcode.com/Cangjie/community) 仓库中公开，接受社区监督。
+  仓颉项目群依照[《仓颉项目群开源治理制度》](https://gitcode.com/Cangjie/community/blob/main/cangjie_core_team/%E4%BB%93%E9%A2%89%E9%A1%B9%E7%9B%AE%E7%BE%A4%E5%BC%80%E6%BA%90%E6%B2%BB%E7%90%86%E5%88%B6%E5%BA%A6%E5%BA%A6.md)，由 Cangjie Core Team 统筹，实行开放、透明的社区治理。各治理组织的章程制度等均在[Community](https://gitcode.com/Cangjie/community)公开。社区治理架构自上而下由 Cangjie Core Team、技术指导委员会（TSC）、项目管理委员会（PMC）等组织构成，各司其职、协同运作：
 
   - [**Cangjie Core Team**](https://gitcode.com/Cangjie/community/tree/main/cangjie_core_team)：仓颉项目群的最高决策组织，负责制定及修改项目群开源治理制度，决定项目群重大方向与重大业务活动计划，并审议下设各组织的工作。《仓颉项目群开源治理制度》《仓颉社区行为准则》等治理文件由其审定并公开发布。
   - [**技术指导委员会（TSC）**](https://gitcode.com/Cangjie/community/tree/main/cangjie_tsc)：Cangjie Core Team
