@@ -1,6 +1,6 @@
 ![CF26F37C-A0A0-4AAC-9351-78BD3B4ECB89.jpg](https://raw.gitcode.com/Cangjie/CangjieCommunity/attachment/uploads/c6c1048a-6989-4611-9542-262d16eee7b7/CF26F37C-A0A0-4AAC-9351-78BD3B4ECB89.jpg 'CF26F37C-A0A0-4AAC-9351-78BD3B4ECB89.jpg')
 
-仓颉编程语言是面向全场景智能的新一代编程语言，具有原生智能化、天生全场景、高性能和强安全等特征，适用于端云各种场景下的应用程序开发，并为开发者提供良好的编程体验。
+仓颉编程语言是面向全场景智能的新一代编程语言，具有智能化、跨平台、高性能和强安全等特征，适用于端云各种场景下的应用程序开发，并为开发者提供良好的编程体验。
 
   ## 治理架构
 
@@ -15,6 +15,12 @@
 
   欢迎开发者关注社区治理动态，参与社区共建。
 
+## 技术地图 & 技术课题
+
+  技术方向，与你共绘。仓颉社区在技术指导委员会（TSC）主导下，每年发布技术地图、常年开放技术课题，让每一位开发者都能看清社区的技术走向，也能参与共建：
+
+  - [**技术地图**](https://gitcode.com/Cangjie/community/blob/main/cangjie_tsc/roadmap/cangjie_roadmaps.md)：一图纵览仓颉编程语言在编译器、运行时、语言库、工具链等方向的年度优先事项与演进路线，每年更新。对路线图有疑问或建议，欢迎提交 Issue 或致信 tsc@cangjie-lang.net，你的反馈将直接影响下一版地图。
+  - [**技术课题**](https://gitcode.com/Cangjie/community/tree/main/cangjie_tsc/annual_project)：聚焦编程语言前沿技术挑战与产业真实问题的年度课题库，面向全体社区开发者开放揭榜。揭榜即担任课题负责人，与社区专家深度交流，研究成果合入开源社区，优秀课题更可获社区荣誉与激励。
 
 ## 源码仓
 仓颉编程语言已开源编译器、运行时和标准库，同时提供SDK集成构建指导书、测试用例和测试框架，帮助开发者自主编译构建SDK。欢迎各位开发者参与仓颉社区建设，点击了解[如何贡献](https://gitcode.com/Cangjie/community/blob/main/contribute/contribution.md)。
